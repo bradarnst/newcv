@@ -1,0 +1,92 @@
+$base-color: #eeeeee;
+$light-font-color: #aaa;
+
+* {
+    background-color: $base-color;
+    font-size: 1em;
+}
+
+.cv-grid {
+    width: 1000px;
+    margin: 30px auto;
+    
+    display: grid;
+    grid-template-rows: repeat(5,min-content);
+    grid-template-columns: 2.75fr 1.25fr;
+    grid-gap: 0em;
+    
+    grid-template-areas: "head head"
+                         "sum sum"
+                         "exp ski"
+                         "prj edu"
+                         "foot foot";
+    
+    & > * {
+      background-color: $base-color;
+      padding: 1em;
+      color: #111;
+      font-weight: 400;
+      font-family: 'Roboto', sans-serif;
+    }
+    
+    .header {
+      grid-area: head;
+      & h1,h3 {
+          line-height: .2em;
+      }
+    }
+    .summary {
+      grid-area: sum;
+    }
+    .experience {
+      grid-area: exp;
+      & h4,h6 {
+          line-height: .2em;
+      }
+    }
+    .projects {
+      grid-area: prj;
+    }
+    .skills {
+        grid-area: ski;
+    }
+    .education {
+      grid-area: edu;
+    }
+    .footer {
+      grid-area: foot;
+      font-size: .9em;
+      font-weight: 300;
+      color: #999;
+    }
+  }
+
+h1 {
+    font-size: 3em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    color: $light-font-color;
+}
+h2 {
+    font-size: 1.8em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: $light-font-color;
+}
+h3 {
+    font-size: 2em;
+    font-weight: 300;
+}
+h4 {
+    font-size: 1.4em;
+    font-weight: 500;
+}
+h6 {
+    font-size: .8em;
+    font-weight: 300;
+    color: $light-font-color;
+}
+// p {
+//     font-size: 1.3em;
+// }

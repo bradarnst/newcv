@@ -1,0 +1,65 @@
+* {
+  background-color: #eeeeee;
+  font-size: 1em; }
+
+.cv-grid {
+  width: 1000px;
+  margin: 30px auto;
+  display: grid;
+  grid-template-rows: repeat(5, min-content);
+  grid-template-columns: 2.75fr 1.25fr;
+  grid-gap: 0em;
+  grid-template-areas: "head head" "sum sum" "exp ski" "prj edu" "foot foot"; }
+  .cv-grid > * {
+    background-color: #eeeeee;
+    padding: 1em;
+    color: #111;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif; }
+  .cv-grid .header {
+    grid-area: head; }
+    .cv-grid .header h1, .cv-grid .header h3 {
+      line-height: .2em; }
+  .cv-grid .summary {
+    grid-area: sum; }
+  .cv-grid .experience {
+    grid-area: exp; }
+    .cv-grid .experience h4, .cv-grid .experience h6 {
+      line-height: .2em; }
+  .cv-grid .projects {
+    grid-area: prj; }
+  .cv-grid .skills {
+    grid-area: ski; }
+  .cv-grid .education {
+    grid-area: edu; }
+  .cv-grid .footer {
+    grid-area: foot;
+    font-size: .9em;
+    font-weight: 300;
+    color: #999; }
+
+h1 {
+  font-size: 3em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: #aaa; }
+
+h2 {
+  font-size: 1.8em;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #aaa; }
+
+h3 {
+  font-size: 2em;
+  font-weight: 300; }
+
+h4 {
+  font-size: 1.4em;
+  font-weight: 500; }
+
+h6 {
+  font-size: .8em;
+  font-weight: 300;
+  color: #aaa; }

@@ -1,0 +1,14 @@
+{
+  "name": "mynewcv",
+  "version": "1.0.0",
+  "description": "Brad Arnst CV",
+  "main": "index.html",
+  "scripts": {
+    "main-scss": "node-sass main.scss main.css"
+  },
+  "author": "Brad Arnst",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
