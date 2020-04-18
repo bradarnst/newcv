@@ -1,7 +1,11 @@
-$base-color: #eeeeee;
-$light-font-color: #aaa;
-
-* {
+$base-color: #dcdde1;
+$med-text-color: #718093;
+$dark-text-color: #353b48;
+$light-text-color: #f5f6fa;
+$border-color: #7f8fa6;
+$side-base-color: #7f8fa63f;
+$footer-color: #192a56cf;
+:root {
     background-color: $base-color;
     font-size: 1em;
 }
@@ -11,53 +15,75 @@ $light-font-color: #aaa;
     margin: 30px auto;
     
     display: grid;
-    grid-template-rows: repeat(5,min-content);
+    grid-template-rows: repeat(4,min-content);
     grid-template-columns: 2.75fr 1.25fr;
     grid-gap: 0em;
     
-    grid-template-areas: "head head"
-                         "sum sum"
-                         "exp ski"
-                         "prj edu"
+    grid-template-areas: "head head-side"
+                         "sum sum-side"
+                         "main side"
                          "foot foot";
     
     & > * {
       background-color: $base-color;
       padding: 1em;
-      color: #111;
+      color: $dark-text-color;
       font-weight: 400;
       font-family: 'Roboto', sans-serif;
     }
     
     .header {
       grid-area: head;
+    //   border-bottom: 1px solid $border-color;
       & h1,h3 {
           line-height: .2em;
       }
     }
+    .header-side {
+        grid-area: head-side;
+        // background-color: $side-base-color;
+        background: linear-gradient(to bottom, $base-color, $side-base-color);
+        // border-bottom: 1px solid $border-color;
+    }
     .summary {
       grid-area: sum;
+    //   border-bottom: 1px solid $border-color;
     }
-    .experience {
-      grid-area: exp;
+    .summary-side {
+        grid-area: sum-side;
+        // justify-items: center;
+        // align-items: center;
+        background-color: $side-base-color;
+        // background: linear-gradient(to left, $base-color, $side-base-color);
+        border-bottom: 1px solid $border-color;
+    }
+    .main {
+      grid-area: main;
       & h4,h6 {
           line-height: .2em;
       }
     }
-    .projects {
-      grid-area: prj;
+    .side {
+        grid-area: side;
+        background-color: $side-base-color;
+        background: linear-gradient(to bottom, $side-base-color 80%, $border-color);
     }
-    .skills {
-        grid-area: ski;
-    }
-    .education {
-      grid-area: edu;
-    }
+    // .projects {
+    //   grid-area: prj;
+    // }
+    // .skills {
+    //     grid-area: ski;
+    //     background-color: $side-base-color;
+    // }
+    // .education {
+    //   grid-area: edu;
+    // }
     .footer {
       grid-area: foot;
       font-size: .9em;
       font-weight: 300;
-      color: #999;
+      background-color: $footer-color;
+      color: $med-text-color;
     }
   }
 
@@ -66,13 +92,14 @@ h1 {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: .1em;
-    color: $light-font-color;
+    color: $med-text-color;
 }
 h2 {
     font-size: 1.8em;
     font-weight: 500;
     text-transform: uppercase;
-    color: $light-font-color;
+    // background-color: currentColor;
+    color: $med-text-color;
 }
 h3 {
     font-size: 2em;
@@ -83,9 +110,9 @@ h4 {
     font-weight: 500;
 }
 h6 {
-    font-size: .8em;
-    font-weight: 300;
-    color: $light-font-color;
+    font-size: .9em;
+    font-weight: 400;
+    color: $med-text-color;
 }
 // p {
 //     font-size: 1.3em;

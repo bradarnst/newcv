@@ -1,55 +1,61 @@
-* {
-  background-color: #eeeeee;
+:root {
+  background-color: #dcdde1;
   font-size: 1em; }
 
 .cv-grid {
   width: 1000px;
   margin: 30px auto;
   display: grid;
-  grid-template-rows: repeat(5, min-content);
+  grid-template-rows: repeat(4, min-content);
   grid-template-columns: 2.75fr 1.25fr;
   grid-gap: 0em;
-  grid-template-areas: "head head" "sum sum" "exp ski" "prj edu" "foot foot"; }
+  grid-template-areas: "head head-side" "sum sum-side" "main side" "foot foot"; }
   .cv-grid > * {
-    background-color: #eeeeee;
+    background-color: #dcdde1;
     padding: 1em;
-    color: #111;
+    color: #353b48;
     font-weight: 400;
     font-family: 'Roboto', sans-serif; }
   .cv-grid .header {
     grid-area: head; }
     .cv-grid .header h1, .cv-grid .header h3 {
       line-height: .2em; }
+  .cv-grid .header-side {
+    grid-area: head-side;
+    background: linear-gradient(to bottom, #dcdde1, #7f8fa63f); }
   .cv-grid .summary {
     grid-area: sum; }
-  .cv-grid .experience {
-    grid-area: exp; }
-    .cv-grid .experience h4, .cv-grid .experience h6 {
+  .cv-grid .summary-side {
+    grid-area: sum-side;
+    background-color: #7f8fa63f;
+    border-bottom: 1px solid #7f8fa6; }
+  .cv-grid .main {
+    grid-area: main; }
+    .cv-grid .main h4, .cv-grid .main h6 {
       line-height: .2em; }
-  .cv-grid .projects {
-    grid-area: prj; }
-  .cv-grid .skills {
-    grid-area: ski; }
-  .cv-grid .education {
-    grid-area: edu; }
+  .cv-grid .side {
+    grid-area: side;
+    background-color: #7f8fa63f;
+    background: linear-gradient(to bottom, #7f8fa63f 80%, #7f8fa6); }
   .cv-grid .footer {
     grid-area: foot;
     font-size: .9em;
     font-weight: 300;
-    color: #999; }
+    background-color: #192a56cf;
+    color: #718093; }
 
 h1 {
   font-size: 3em;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: .1em;
-  color: #aaa; }
+  color: #718093; }
 
 h2 {
   font-size: 1.8em;
   font-weight: 500;
   text-transform: uppercase;
-  color: #aaa; }
+  color: #718093; }
 
 h3 {
   font-size: 2em;
@@ -60,6 +66,6 @@ h4 {
   font-weight: 500; }
 
 h6 {
-  font-size: .8em;
-  font-weight: 300;
-  color: #aaa; }
+  font-size: .9em;
+  font-weight: 400;
+  color: #718093; }

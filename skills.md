@@ -1,5 +1,5 @@
 ## Skills & Proficiency
-### Professional
+#### Professional
 
 - Engineering lead, manage, mentor.
 - Consulting
@@ -8,7 +8,7 @@
 - Strategy
 - C-Level Engagement
 
-### Technical
+#### Technical
 
 Architecture: Enterprise, Solutions, Infrastructure, Integration, Technology, Software.
 High-level and low-level design of cloud, systems, platforms, services, software, devops, web, mobile, network, testing, operations.
