@@ -9,7 +9,7 @@
   grid-template-rows: repeat(4, min-content);
   grid-template-columns: 2.75fr 1.25fr;
   grid-gap: 0em;
-  grid-template-areas: "head head-side" "sum sum-side" "main side" "foot foot"; }
+  grid-template-areas: "head head-side" "sum sum-side" "main side" "foot foot-side"; }
   .cv-grid > * {
     background-color: #dcdde1;
     padding: 1em;
@@ -35,13 +35,18 @@
       line-height: .2em; }
   .cv-grid .side {
     grid-area: side;
-    background-color: #7f8fa63f;
-    background: linear-gradient(to bottom, #7f8fa63f 80%, #7f8fa6); }
+    background-color: #7f8fa63f; }
   .cv-grid .footer {
     grid-area: foot;
     font-size: .9em;
     font-weight: 300;
-    background-color: #192a56cf;
+    background-color: #7f8fa6;
+    color: #353b48; }
+  .cv-grid .footer-side {
+    grid-area: foot-side;
+    font-size: .9em;
+    font-weight: 300;
+    background-color: #7f8fa63f;
     color: #718093; }
 
 h1 {

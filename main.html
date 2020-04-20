@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="main.css">
+    <title>Brad Arnst CV</title>
+</head>
+<body>
+    <div class="cv-grid">
+        <div class="header">
+            {% for header in collections.header -%}
+            {{ header.templateContent | safe }}
+            {% endfor -%}
+        </div>
+        <div class="header-side">
+            <img src="profile.png" alt="Brad Bust">
+        </div>
+        <div class="summary">
+            {% for summary in collections.summary -%}
+            {{ summary.templateContent | safe }}
+            {% endfor -%}
+        </div>
+        <div class="summary-side">
+            {% for summary-side in collections.summary-side -%}
+            {{ summary-side.templateContent | safe }}
+            {% endfor -%}
+        </div>
+        <div class="main">
+            {% for main in collections.main -%}
+            {{ main.templateContent | safe }}
+            {% endfor -%}
+        </div>
+        
+        <div class="side">
+            {% for side in collections.side -%}
+            {{ side.templateContent | safe }}
+            {% endfor -%}
+        </div>
+        <div class="footer">
+            {% for footer in collections.footer -%}
+            {{ footer.templateContent | safe }}
+            {% endfor -%}
+        </div>
+        <div class="footer-side">
+            
+        </div>
+    </div>
+</body>
+</html>
