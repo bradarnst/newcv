@@ -4,7 +4,7 @@ $dark-text-color: #353b48;
 $light-text-color: #f5f6fa;
 $border-color: #7f8fa6;
 $side-base-color: #7f8fa63f;
-$footer-color: #192a56cf;
+// $footer-color: #192a56cf;
 $footer-color: $border-color;
 
 :root {
@@ -68,7 +68,8 @@ $footer-color: $border-color;
     .side {
         grid-area: side;
         background-color: $side-base-color;
-        // background: linear-gradient(to bottom, $side-base-color 95%, $border-color);
+        font-size: .9em;
+        background: linear-gradient(to bottom, $side-base-color 95%, $base-color);
     }
     // .projects {
     //   grid-area: prj;
@@ -85,14 +86,14 @@ $footer-color: $border-color;
       font-size: .9em;
       font-weight: 300;
       background-color: $footer-color;
-    //   background: linear-gradient(to right, $footer-color 95%, $border-color 100%);
+      // background: linear-gradient(to right, $footer-color 85%, $side-base-color 100%);
       color: $dark-text-color;
     }
     .footer-side {
         grid-area: foot-side;
         font-size: .9em;
         font-weight: 300;
-        background-color: $side-base-color;
+        background-color: $base-color;
         // background: linear-gradient(to bottom left, $border-color 20%, $footer-color);
         color: $med-text-color;
     }

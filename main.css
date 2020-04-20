@@ -35,7 +35,9 @@
       line-height: .2em; }
   .cv-grid .side {
     grid-area: side;
-    background-color: #7f8fa63f; }
+    background-color: #7f8fa63f;
+    font-size: .9em;
+    background: linear-gradient(to bottom, #7f8fa63f 95%, #dcdde1); }
   .cv-grid .footer {
     grid-area: foot;
     font-size: .9em;
@@ -46,7 +48,7 @@
     grid-area: foot-side;
     font-size: .9em;
     font-weight: 300;
-    background-color: #7f8fa63f;
+    background-color: #dcdde1;
     color: #718093; }
 
 h1 {
