@@ -1,10 +1,10 @@
 ---
-tags: main
+tags: experience
 ---
 
 ## Professional Experience
 #### Enterprise Architect & Engineering Manager
-###### Buildit @ Wipro Digital — London, UK | Sep 2019 - Present
+###### Buildit @ Wipro Digital — London, UK | Sep 2018 - Present
 As Enterprise Architect responsible for architecture and strategy consults for clients and within Wipro Digital. Buildit is a talented, highly-performing team within Wipro Digital. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
 
 As Engineering Manager responsible for mentoring Buildit and Wipro Digital engineering teams, consulting on engineering transformation with clients and within Wipro Digital. Introducing and refining ways of working, creative thinking, and modern, digital approaches.
@@ -70,21 +70,19 @@ As Solutions Architect primarily responsible for project delivery, architecture 
 
 As Senior Infrastructure Architect for HP, for their BP account, responsible for Data Centre Services (DCS) Architecture at the Global Data Centre Operations/Solutions located in BP Data Centres.
 
-• servers • mid-range • database • web-hosting • middleware • storage • backup • requirements gathering & analysis • governance • high-level & detailed design • QA • m
+• servers • mid-range • database • web-hosting • middleware • storage • backup • requirements gathering & analysis • governance • high-level & detailed design • QA •
 
 #### Enterprise Solutions Architect
 ###### Xchanging — London, UK | 2010 - 2012
 
 As Enterprise Solutions Architect responsible for solutions architecture throughout Xchanging and to external customers; consulting for internal and external business clients; Enterprise Architecture. Primary resource for all security architecture. Developed the solution for a standard desktop for offshore, near-shore and internal employees using hybrid cloud systems. Designed a solution for a SharePoint front-end to provide app delivery, hosting and remote management for offshore and onshore users.
 
-• requirements gathering & analysis • proposals • solution design & documentation • Wintel • Mainframe • Mid-range • Networking • remote desktop (Citrix) • End-User Computing initiative (Gatwick Airport) • strategic technical roadmaps • private & hybrid cloud strategy •
+• requirements gathering & analysis • proposals • solution design & documentation • Wintel • Mainframe • Mid-range • Networking • remote desktop (Citrix) • end-user computing platform design • strategic & technical roadmaps • private & hybrid cloud strategy •
 
 #### Enterprise Solutions Architect
 ###### Husky Energy — Calgary, Canada | 2008 - 2009
 
-As Enterprise Solutions Architect for the Enterprise Architecture Team responsible for developing technical roadmaps for Husky’s entire systems infrastructure. Developed the architecture and implementation plan to migrate from Novell systems to Microsoft systems. Developed integration standards for web/SAP (NetWeaver, PI & XI).
-
-• TOGAF • ARIS • SharePoint •
+As Enterprise Solutions Architect for the Enterprise Architecture Team responsible for developing technical roadmaps for Husky’s entire systems infrastructure. Developed the architecture and implementation plan to migrate from Novell systems to Microsoft systems. Developed integration standards for web/SAP (NetWeaver, PI & XI) • TOGAF • ARIS • SharePoint •
 
 #### Enterprise Architect
 ###### FortisAlberta Inc. — Calgary, Canada | 2007 - 2008

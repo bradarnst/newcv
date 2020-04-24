@@ -1,28 +1,36 @@
-:root {
-  background-color: #dcdde1;
-  font-size: 1em; }
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  box-sizing: border-box;
+  background-color: #f5f6fa; }
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #353b48;
+  font-weight: 400; }
 
 .cv-grid {
   width: 1000px;
   margin: 30px auto;
+  background-color: #f5f6fa;
   display: grid;
   grid-template-rows: repeat(4, min-content);
   grid-template-columns: 2.75fr 1.25fr;
   grid-gap: 0em;
   grid-template-areas: "head head-side" "sum sum-side" "main side" "foot foot-side"; }
   .cv-grid > * {
-    background-color: #dcdde1;
-    padding: 1em;
-    color: #353b48;
-    font-weight: 400;
-    font-family: 'Roboto', sans-serif; }
+    background-color: #f5f6fa;
+    padding: 1em; }
   .cv-grid .header {
     grid-area: head; }
-    .cv-grid .header h1, .cv-grid .header h3 {
-      line-height: .2em; }
   .cv-grid .header-side {
     grid-area: head-side;
-    background: linear-gradient(to bottom, #dcdde1, #7f8fa63f); }
+    background: linear-gradient(to bottom, #f5f6fa, #7f8fa63f); }
   .cv-grid .summary {
     grid-area: sum; }
   .cv-grid .summary-side {
@@ -31,13 +39,25 @@
     border-bottom: 1px solid #7f8fa6; }
   .cv-grid .main {
     grid-area: main; }
-    .cv-grid .main h4, .cv-grid .main h6 {
-      line-height: .2em; }
+    .cv-grid .main h4 {
+      padding-top: .75em; }
+    .cv-grid .main .experience:nth-of-type(1n+2),
+    .cv-grid .main .projects:nth-of-type(1n+2) {
+      padding-top: 3em; }
   .cv-grid .side {
     grid-area: side;
+    padding: 1em;
     background-color: #7f8fa63f;
     font-size: .9em;
-    background: linear-gradient(to bottom, #7f8fa63f 95%, #dcdde1); }
+    background: linear-gradient(to bottom, #7f8fa63f 95%, #f5f6fa); }
+    .cv-grid .side p {
+      padding: .5em 0; }
+    .cv-grid .side .skills:nth-of-type(1n+2),
+    .cv-grid .side .education:nth-of-type(1n+2),
+    .cv-grid .side .languages:nth-of-type(1n+2) {
+      padding-top: 3em; }
+    .cv-grid .side h4 {
+      padding-top: .75em; }
   .cv-grid .footer {
     grid-area: foot;
     font-size: .9em;
@@ -48,7 +68,7 @@
     grid-area: foot-side;
     font-size: .9em;
     font-weight: 300;
-    background-color: #dcdde1;
+    background-color: #f5f6fa;
     color: #718093; }
 
 h1 {
@@ -75,4 +95,5 @@ h4 {
 h6 {
   font-size: .9em;
   font-weight: 400;
+  padding-bottom: .5em;
   color: #718093; }

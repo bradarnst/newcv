@@ -15,7 +15,9 @@
             {% endfor -%}
         </div>
         <div class="header-side">
-            <img src="profile.png" alt="Brad Bust">
+            {% for header-side in collections.header-side -%}
+            {{ header-side.templateContent | safe }}
+            {% endfor -%}
         </div>
         <div class="summary">
             {% for summary in collections.summary -%}
@@ -28,15 +30,34 @@
             {% endfor -%}
         </div>
         <div class="main">
-            {% for main in collections.main -%}
-            {{ main.templateContent | safe }}
-            {% endfor -%}
+            <div class="experience">
+                {% for experience in collections.experience -%}
+                {{ experience.templateContent | safe }}
+                {% endfor -%}
+            </div>
+            <div class="projects">
+                {% for projects in collections.projects -%}
+                {{ projects.templateContent | safe }}
+                {% endfor -%}
+            </div>
         </div>
         
         <div class="side">
-            {% for side in collections.side -%}
-            {{ side.templateContent | safe }}
-            {% endfor -%}
+            <div class="skills">
+                {% for skills in collections.skills -%}
+                {{ skills.templateContent | safe }}
+                {% endfor -%}
+            </div>
+            <div class="education">
+                {% for education in collections.education -%}
+                {{ education.templateContent | safe }}
+                {% endfor -%}
+            </div>
+            <div class="languages">
+                {% for languages in collections.languages -%}
+                {{ languages.templateContent | safe }}
+                {% endfor -%}
+            </div>
         </div>
         <div class="footer">
             {% for footer in collections.footer -%}
