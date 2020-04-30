@@ -24,7 +24,7 @@ body {
   grid-gap: 0em;
   grid-template-rows: repeat(4, min-content);
   grid-template-columns: minmax(371px, 1.618fr) minmax(229px, 1fr);
-  grid-template-areas: "head head-side" "sum contact" "main side" "foot foot"; }
+  grid-template-areas: "head head-side" "summary contact" "main side" "foot foot"; }
   .cv-grid > * {
     background-color: #f5f6fa; }
   .cv-grid .hr-style {
@@ -57,7 +57,7 @@ body {
       opacity: 1.0;
       z-index: -1; }
   .cv-grid .summary {
-    grid-area: sum;
+    grid-area: summary;
     padding: 1em 1em 1em 2em; }
     .cv-grid .summary p {
       padding-bottom: .3em; }
@@ -92,8 +92,6 @@ body {
     .cv-grid .side .languages:nth-of-type(1n+2),
     .cv-grid .side .interests:nth-of-type(1n+2) {
       padding-top: 3em; }
-    .cv-grid .side h4 {
-      padding-top: 1em; }
   .cv-grid .footer {
     grid-area: foot;
     padding: 1em 1em 1em 4em;

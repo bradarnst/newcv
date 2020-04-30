@@ -1,4 +1,4 @@
 ---
 tags: header-side
 ---
-![Brad Bust](brad-bust-pub1.png)
+![Brad Bust](images/brad-bust-pub1.png)

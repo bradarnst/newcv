@@ -28,11 +28,6 @@ body {
   font-weight: 400;
 }
 
-// :root {
-//     background-color: $color-grey-light;
-//     font-size: 1em;
-// }
-
 .cv-grid {
     width: 70vw;
     margin: 45px auto;
@@ -40,12 +35,11 @@ body {
     display: grid;
     border-radius: 10px;
     box-shadow: 20px 20px 45px #d0d1d5;
-                // -20px -20px 60px #ffffff;
     grid-gap: 0em;
     grid-template-rows: repeat(4,min-content);
     grid-template-columns: minmax(371px, 1.618fr) minmax(229px, 1fr) ;
     grid-template-areas: "head head-side"
-                          "sum contact"
+                          "summary contact"
                           "main side"
                           "foot foot";
 
@@ -104,7 +98,7 @@ body {
         }
     }
     .summary {
-      grid-area: sum;
+      grid-area: summary;
       // padding: 1em 0em 1em 4em;
       padding: 1em 1em 1em 2em;
       & p {
@@ -154,20 +148,8 @@ body {
          .interests:nth-of-type(1n+2) {
           padding-top: 3em;
         }
-        & h4 {
-          padding-top: 1em;
-        }
     }
-    // .projects {
-    //   grid-area: prj;
-    // }
-    // .skills {
-    //     grid-area: ski;
-    //     background-color: $color-primary-light-trans;
-    // }
-    // .education {
-    //   grid-area: edu;
-    // }
+  
     .footer {
       grid-area: foot;
       padding: 1em 1em 1em 4em;
@@ -178,14 +160,7 @@ body {
       // background: linear-gradient( to right, $color-grey-light 0%, $color-footer 50%, $color-grey-light 100%);
       color: $color-primary;
     }
-    // .footer-side {
-    //     grid-area: foot-side;
-    //     font-size: .9em;
-    //     font-weight: 300;
-    //     background-color: $color-grey-light;
-    //     // background: linear-gradient(to bottom left, $color-primary-light 20%, $color-footer);
-    //     color: $color-grey-med;
-    // }
+
     h1 {
       font-size: 3em;
       font-weight: 700;
