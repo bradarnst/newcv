@@ -1,5 +1,4 @@
 ---
 tags: header-side
 ---
-
-![Brad Bust](profile.png)
+![Brad Bust](brad-bust-pub1.png)

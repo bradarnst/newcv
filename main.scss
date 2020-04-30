@@ -8,6 +8,7 @@ $color-primary-light-trans: #7f8fa63f;
 // $color-footer: #192a56cf;
 $color-footer: $color-primary-light;
 $font-primary: 'Roboto', sans-serif;
+$side-font-size: .9em;
 
 *,
 *::before,
@@ -33,26 +34,51 @@ body {
 // }
 
 .cv-grid {
-    width: 1000px;
-    margin: 30px auto;
+    width: 70vw;
+    margin: 45px auto;
     background-color: $color-grey-light;
     display: grid;
-    grid-template-rows: repeat(4,min-content);
-    grid-template-columns: 2.75fr 1.25fr;
+    border-radius: 10px;
+    box-shadow: 20px 20px 45px #d0d1d5;
+                // -20px -20px 60px #ffffff;
     grid-gap: 0em;
-    
+    grid-template-rows: repeat(4,min-content);
+    grid-template-columns: minmax(371px, 1.618fr) minmax(229px, 1fr) ;
     grid-template-areas: "head head-side"
-                         "sum sum-side"
-                         "main side"
-                         "foot foot-side";
+                          "sum contact"
+                          "main side"
+                          "foot foot";
+
+    // grid-template-columns: 3fr 1fr 2fr 2fr 1fr 3fr;
+    // grid-template-areas: "head head head head . head-side"
+    //                      "sum sum sum sum . contact"
+    //                      "main main main main . side"
+    //                      "foot foot foot foot foot foot";
     
     & > * {
       background-color: $color-grey-light;
-      padding: 1em;
+      // padding: 2em;
+    }
+
+    .hr-style {
+      border: 0;
+      height: 1px;
+      margin-bottom: 2em;
+      &--main {
+      background-image: linear-gradient(to left, $color-grey-light, $color-primary-light, $color-grey-light);
+      }
+      &--side {
+        background-image: linear-gradient(to left, $color-primary-light-trans, $color-primary-light, $color-primary-light-trans);        
+      }
     }
     
     .header {
       grid-area: head;
+      text-align: center;
+      // padding-right: 3em;
+      // padding: 4em 0em 1em 4em;
+      padding: 1em 1em 1em 2em;
+      border-radius: 6px 0 0 0;
     //   border-bottom: 1px solid $color-primary-light;
       & h1,h3 {
           // line-height: 1em;
@@ -60,29 +86,52 @@ body {
     }
     .header-side {
         grid-area: head-side;
-        // justify-self: center;
-        // align-self: center;
-        // background-color: $color-primary-light-trans;
+        display: flex;
+        overflow-wrap: anywhere;
+        justify-content: center;
+        align-content: center;
+        // padding: 4em 1em 1em 1em;
+        padding: 1em 2em 1em 1em;
+        border-radius: 0 6px 0 0;
+        font-size: $side-font-size;
         background: linear-gradient(to bottom, $color-grey-light, $color-primary-light-trans);
-        // border-bottom: 1px solid $color-primary-light;
+        & img {
+          border-radius: 5%;
+          width: 100px;
+          object-fit: cover;
+          opacity: 1.0;
+          z-index: -1;
+        }
     }
     .summary {
       grid-area: sum;
-    //   border-bottom: 1px solid $color-primary-light;
+      // padding: 1em 0em 1em 4em;
+      padding: 1em 1em 1em 2em;
+      & p {
+        padding-bottom: .3em;
+      }
     }
-    .summary-side {
-        grid-area: sum-side;
-        // justify-items: center;
-        // align-items: center;
+    .contact {
+        grid-area: contact;
+        font-size: $side-font-size;
+        overflow-wrap: anywhere;
+        // padding: 1em;
+        padding: 1em 2em 1em 1em;
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
         background-color: $color-primary-light-trans;
-        // background: linear-gradient(to left, $color-grey-light, $color-primary-light-trans);
-        border-bottom: 1px solid $color-primary-light;
     }
     .main {
       grid-area: main;
-      & h4 {
-          padding-top: .75em;
+      // padding: 1em 0em 4em 4em;
+      padding: 1em 1em 4em 2em;
+      & p {
+        padding-bottom: .3em;
       }
+      // & h4 {
+      //     padding-top: 1em;
+      // }
       & .experience:nth-of-type(1n+2),
         .projects:nth-of-type(1n+2) {
         padding-top: 3em;
@@ -90,20 +139,23 @@ body {
     }
     .side {
         grid-area: side;
-        padding: 1em;
+        overflow-wrap: anywhere;
+        // padding: 1em 1em 4em 1em;
+        padding: 1em 2em 4em 1em;
         background-color: $color-primary-light-trans;
-        font-size: .9em;
+        font-size: $side-font-size;
         background: linear-gradient(to bottom, $color-primary-light-trans 95%, $color-grey-light);
         & p {
           padding: .5em 0;
         }
         & .skills:nth-of-type(1n+2),
          .education:nth-of-type(1n+2),
-         .languages:nth-of-type(1n+2) {
+         .languages:nth-of-type(1n+2),
+         .interests:nth-of-type(1n+2) {
           padding-top: 3em;
         }
         & h4 {
-          padding-top: .75em;
+          padding-top: 1em;
         }
     }
     // .projects {
@@ -118,52 +170,52 @@ body {
     // }
     .footer {
       grid-area: foot;
+      padding: 1em 1em 1em 4em;
       font-size: .9em;
       font-weight: 300;
       background-color: $color-footer;
+      border-radius: 0 0 6px 6px;
       // background: linear-gradient( to right, $color-grey-light 0%, $color-footer 50%, $color-grey-light 100%);
       color: $color-primary;
     }
-    .footer-side {
-        grid-area: foot-side;
-        font-size: .9em;
-        font-weight: 300;
-        background-color: $color-grey-light;
-        // background: linear-gradient(to bottom left, $color-primary-light 20%, $color-footer);
-        color: $color-grey-med;
+    // .footer-side {
+    //     grid-area: foot-side;
+    //     font-size: .9em;
+    //     font-weight: 300;
+    //     background-color: $color-grey-light;
+    //     // background: linear-gradient(to bottom left, $color-primary-light 20%, $color-footer);
+    //     color: $color-grey-med;
+    // }
+    h1 {
+      font-size: 3em;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      color: $color-grey-med;
     }
+    h2 {
+      font-size: 1.5em;
+      font-weight: 500;
+      text-transform: uppercase;
+      color: $color-grey-med;
+      padding-bottom: 1em;
+    }
+    h3 {
+      font-size: 1.5em;
+      font-weight: 300;
+      // padding-bottom: 1em;
+    }
+    h4 {
+      font-size: 1.25em;
+      font-weight: 500;
+      // padding-top: .75em;
+    }
+    h6 {
+      font-size: .9em;
+      font-weight: 400;
+      padding-bottom: .5em;
+      color: $color-grey-med;
+    }
+  
   }
 
-h1 {
-    font-size: 3em;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: .1em;
-    color: $color-grey-med;
-}
-h2 {
-    font-size: 1.8em;
-    font-weight: 500;
-    text-transform: uppercase;
-    // background-color: currentColor;
-    color: $color-grey-med;
-}
-h3 {
-    font-size: 2em;
-    font-weight: 300;
-    // padding-bottom: 1em;
-}
-h4 {
-    font-size: 1.4em;
-    font-weight: 500;
-    // padding-top: .75em;
-}
-h6 {
-    font-size: .9em;
-    font-weight: 400;
-    padding-bottom: .5em;
-    color: $color-grey-med;
-}
-// p {
-//     font-size: 1.3em;
-// }

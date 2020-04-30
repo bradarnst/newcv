@@ -2,7 +2,7 @@
 tags: summary
 ---
 
-#### Enterprise Technology Architect. Engineering / Technical Leader.
+***Enterprise Technology Architect. Engineering / Technical Leader.***
 
 Guiding corporate strategies and technical direction; devising optimal architectures and designs; directing digital transformation and integration. Managing and leading teams to excellence.
 

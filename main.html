@@ -20,16 +20,19 @@
             {% endfor -%}
         </div>
         <div class="summary">
+            <!-- <hr class="hr-style hr-style--main"> -->
             {% for summary in collections.summary -%}
             {{ summary.templateContent | safe }}
             {% endfor -%}
         </div>
-        <div class="summary-side">
-            {% for summary-side in collections.summary-side -%}
-            {{ summary-side.templateContent | safe }}
+        <div class="contact">
+            <hr class="hr-style hr-style--side">
+            {% for contact in collections.contact -%}
+            {{ contact.templateContent | safe }}
             {% endfor -%}
         </div>
         <div class="main">
+            <hr class="hr-style hr-style--main">
             <div class="experience">
                 {% for experience in collections.experience -%}
                 {{ experience.templateContent | safe }}
@@ -43,6 +46,7 @@
         </div>
         
         <div class="side">
+            <hr class="hr-style hr-style--side">
             <div class="skills">
                 {% for skills in collections.skills -%}
                 {{ skills.templateContent | safe }}
@@ -58,15 +62,20 @@
                 {{ languages.templateContent | safe }}
                 {% endfor -%}
             </div>
+            <div class="interests">
+                {% for interests in collections.interests -%}
+                {{ interests.templateContent | safe }}
+                {% endfor -%}
+            </div>
         </div>
         <div class="footer">
             {% for footer in collections.footer -%}
             {{ footer.templateContent | safe }}
             {% endfor -%}
         </div>
-        <div class="footer-side">
+        <!-- <div class="footer-side">
             
-        </div>
+        </div> -->
     </div>
 </body>
 </html>

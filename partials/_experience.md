@@ -82,7 +82,9 @@ As Enterprise Solutions Architect responsible for solutions architecture through
 #### Enterprise Solutions Architect
 ###### Husky Energy — Calgary, Canada | 2008 - 2009
 
-As Enterprise Solutions Architect for the Enterprise Architecture Team responsible for developing technical roadmaps for Husky’s entire systems infrastructure. Developed the architecture and implementation plan to migrate from Novell systems to Microsoft systems. Developed integration standards for web/SAP (NetWeaver, PI & XI) • TOGAF • ARIS • SharePoint •
+As Enterprise Solutions Architect for the Enterprise Architecture Team responsible for developing technical roadmaps for Husky’s entire systems infrastructure. Developed the architecture and implementation plan to migrate from Novell systems to Microsoft systems. Developed integration standards for web/SAP (NetWeaver, PI & XI)
+
+• TOGAF • ARIS • SharePoint •
 
 #### Enterprise Architect
 ###### FortisAlberta Inc. — Calgary, Canada | 2007 - 2008
@@ -124,7 +126,7 @@ As Senior Technical Lead on a large migration project—responsible for analysis
 
 As Senior Architect and Interim IT Manager developed and refined architecture, procedures and standards. Responsible for management of technical resources. Developed technology roadmaps.
 
-• network • servers • desktop • apps • security • DR • Exchange •firewalls • NetApp • SMS • web • monitoring • change control • Linux • HPUX • AD • DNS • Exchange • SMTP • SQL Server • Agresso • backup •
+• network • servers • desktop • apps • security • DR • Exchange • firewalls • NetApp • SMS • web • monitoring • change control • Linux • HPUX • AD • DNS • Exchange • SMTP • SQL Server • Agresso • backup •
 
 #### Director/Consultant
 ###### Nexus 7 Consulting — Canada and UK | 1996 - 2016
