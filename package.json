@@ -4,7 +4,7 @@
   "description": "Brad Arnst CV",
   "main": "index.html",
   "scripts": {
-    "main-scss": "node-sass main.scss main.css"
+    "main-scss": "node-sass styles/main.scss css/main.css"
   },
   "author": "Brad Arnst",
   "license": "MIT",
