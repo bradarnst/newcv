@@ -3,7 +3,7 @@ tags: skills
 ---
 
 ## Skills & Proficiency
-#### Professional
+### Professional
 
 Engineering lead, manage, mentor.
 
@@ -17,7 +17,7 @@ Strategy
 
 C-Level Engagement
 
-#### Technical
+### Technical
 
 Architecture: Enterprise, Solutions, Infrastructure, Integration, Technology, Software.
 
