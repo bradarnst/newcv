@@ -10,6 +10,3 @@ tags: footer
 
 [Location: London, UK](https://goo.gl/maps/Gzuf7DiyDRaQmh8J8)
 
-Some sort of teaser.
-
-Something else.
