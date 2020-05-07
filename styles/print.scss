@@ -1,21 +1,7 @@
-// $colour-primary: #192a56;
-// $colour-grey: #564e58;
-// $colour-highlight: #904e55;
-// $colour-light: #f2efe9;
-// $colour-dark: #252627;
-// $colour-primary-shade: #b2bdcc;
-
-// $colour-primary: #3b3355;
-// $colour-dark: #000505;
-// $colour-light: #fefcfd;
-// $colour-primary-shade: #bfcde0;
-// $colour-highlight: #4d5533;
-// $colour-grey: #5d5d81;
-// $colour-grey: #7f7e7f;
-
 $colour-primary: #1d3557;
 $colour-dark: #000;
-$colour-light: #f1faee;
+// $colour-light: #f1faee;
+$colour-light: #faf1ee;
 $colour-primary-shade: #a8dadc;
 $colour-highlight: #e63946;
 $colour-grey: #60665f;
@@ -39,68 +25,51 @@ $side-font-size: .9em;
 }
 html {
   box-sizing: border-box;
-  background-color: $colour-light;
+//   background-color: $colour-light;
+}
+
+@page {
+    size: a4;
+    margin: 18pt;
 }
 
 body {
-  width: 90vw;
-  margin: 15px auto;
-  border-radius: 6px;
-  box-shadow: 10px 10px 20px #d0d1d5;
-  font-family: $font-primary;
-  background-color: $colour-light;
-  color: $colour-dark;
-  font-size: 1.15rem;
-  font-weight: 300;
-  a:link {
+    //   width: 90vw;
+    //   margin: 15px auto;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 6px;
+    // box-shadow: 10px 10px 20px #d0d1d5;
+    font-family: $font-primary;
+    background-color: $colour-light;
     color: $colour-dark;
-  }
-  a:visited {
-    color: $colour-primary;
-  }
+    font-size: 1.15rem;
+    font-weight: 300;
+    a:link {
+        color: $colour-dark;
+    }
+    a:visited {
+        color: $colour-primary;
+    }
 }
-
-@media screen and (min-width: 800px) {
-  body {
-    width: 75vw;
-    box-shadow: 20px 20px 40px #d0d1d5;
-  }
-  @media screen and (min-width: 1450px) {
-    body {
-      width: 70vw;
-    }
-  }
-  @media screen and (min-width: 1750px) {
-    body {
-      width: 65vw;
-    }
-  }
   
-.cv-grid {
-    // width: 75vw;
-    margin: 45px auto;
-    display: grid;
-    border-radius: 10px;
-    grid-gap: 0rem;
-    grid-template-rows: repeat(4,min-content);
-    grid-template-columns: 1.618fr 1fr;
-    grid-template-areas: "head head"
-                          "summary contact"
-                          "main side"
-                          "foot foot";
-    }
-  }
 
-  @media print {
-    @page {
-      margin: 36pt;
-    }
-    body {
-      width: 100%;
-      margin: 0px;
-      padding: 0px;
-    }  
-  }
+// .cv-grid {
+//     // width: 75vw;
+//     // margin: 45px auto;
+//     display: grid;
+//     border-radius: 10px;
+//     grid-gap: 0rem;
+//     grid-template-rows: repeat(4,min-content);
+//     grid-template-columns: 1.618fr 1fr;
+//     grid-template-areas: "head head"
+//                           "summary contact"
+//                           "main side"
+//                           "foot foot";
+
+//     }
+  
 
   .hr-style {
     border: 0;
@@ -108,17 +77,17 @@ body {
     margin-bottom: 2rem;
     &--main {
     // background-image: linear-gradient(to left, $color-grey-light, $color-primary-light, $color-grey-light);
-    background-image: linear-gradient(to left, $colour-light, $colour-primary, $colour-light);
+    // background-image: linear-gradient(to left, $colour-light, $colour-primary, $colour-light);
     }
     &--side {
       // background-image: linear-gradient(to left, $color-primary-light-trans, $color-primary-light, $color-primary-light-trans);        
-      background-image: linear-gradient(to left, $colour-primary-shade, $colour-primary, $colour-primary-shade);
+    //   background-image: linear-gradient(to left, $colour-primary-shade, $colour-primary, $colour-primary-shade);
     }
   }
     
   header {
     grid-area: head;
-    background: linear-gradient(to right, $colour-light 61.8%, $colour-primary-shade 61.8%);
+    // background: linear-gradient(to right, $colour-light 61.8%, $colour-primary-shade 61.8%);
     border-radius: 6px 6px 0 0;
     display: flex;
     flex: min-content;
@@ -154,7 +123,8 @@ body {
     
     .summary {
       grid-area: summary;
-      padding: 1rem 1rem 1rem 2rem;
+    //   padding: 1rem 1rem 1rem 2rem;
+    padding: 1rem 0rem;
       & p {
         padding-bottom: .4em;
       }
@@ -163,7 +133,8 @@ body {
       grid-area: contact;
       font-size: $side-font-size;
       overflow-wrap: anywhere;
-      padding: 1rem 2rem 1rem 1rem;
+    //   padding: 1rem 2rem 1rem 1rem;
+    padding: 1rem 0rem;
       display: flex;
       flex-direction: column;
       justify-content: safe;
@@ -183,7 +154,8 @@ body {
   
   main {
     grid-area: main;
-    padding: 1rem 1rem 4rem 2rem;
+    // padding: 1rem 1rem 4rem 2rem;
+    padding: 1rem 0rem 4rem 0rem;
     & p {
       padding-bottom: .4rem;
     }
@@ -195,10 +167,12 @@ body {
   aside {
       grid-area: side;
       overflow-wrap: anywhere;
-      padding: 1rem 2rem 4rem 1rem;
+    //   padding: 1rem 2rem 4rem 1rem;
+    padding: 1rem 0rem 4rem 0rem;
       background-color: $colour-primary-shade;
       font-size: $side-font-size;
-      background: linear-gradient(to bottom, $colour-primary-shade 95%, $colour-light);
+    //   background: linear-gradient(to bottom, $colour-primary-shade 95%, $colour-light);
+    background-color: $colour-primary-shade;
       & p {
         padding: .5rem 0;
       }
@@ -212,21 +186,13 @@ body {
 
   footer {
     grid-area: foot;
-    // height: 100px;
-    display: flex;
-    // flex-direction: column;
-    justify-content: space-evenly;
-    padding: 3rem 4rem 3rem 4rem;
-    font-size: 1rem;
+    // padding: 1rem 1rem 1rem 4rem;
+    padding: 1rem 0rem;
+    font-size: .8em;
     font-weight: 300;
     background-color: $colour-footer;
     border-radius: 0 0 6px 6px;
-    // color: $colour-light;
     color: $colour-light;
-    a,
-    p {
-      padding: 1rem;
-    }
   }
 
   h1 {

@@ -6,16 +6,19 @@
   box-sizing: inherit; }
 
 html {
-  box-sizing: border-box;
-  background-color: #f1faee; }
+  box-sizing: border-box; }
+
+@page {
+  size: a4;
+  margin: 18pt; }
 
 body {
-  width: 90vw;
-  margin: 15px auto;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
   border-radius: 6px;
-  box-shadow: 10px 10px 20px #d0d1d5;
   font-family: "Open Sans", sans-serif;
-  background-color: #f1faee;
+  background-color: #faf1ee;
   color: #000;
   font-size: 1.15rem;
   font-weight: 300; }
@@ -24,55 +27,19 @@ body {
   body a:visited {
     color: #1d3557; }
 
-@media screen and (min-width: 800px) {
-  body {
-    width: 75vw;
-    box-shadow: 20px 20px 40px #d0d1d5; } }
-
-@media screen and (min-width: 800px) and (min-width: 1450px) {
-  body {
-    width: 70vw; } }
-
-@media screen and (min-width: 800px) and (min-width: 1750px) {
-  body {
-    width: 65vw; } }
-
-@media screen and (min-width: 800px) {
-  .cv-grid {
-    margin: 45px auto;
-    display: grid;
-    border-radius: 10px;
-    grid-gap: 0rem;
-    grid-template-rows: repeat(4, min-content);
-    grid-template-columns: 1.618fr 1fr;
-    grid-template-areas: "head head" "summary contact" "main side" "foot foot"; } }
-
-@media print {
-  @page {
-    margin: 36pt; }
-  body {
-    width: 100%;
-    margin: 0px;
-    padding: 0px; } }
-
 .hr-style {
   border: 0;
   height: 1px;
   margin-bottom: 2rem; }
-  .hr-style--main {
-    background-image: linear-gradient(to left, #f1faee, #1d3557, #f1faee); }
-  .hr-style--side {
-    background-image: linear-gradient(to left, #a8dadc, #1d3557, #a8dadc); }
 
 header {
   grid-area: head;
-  background: linear-gradient(to right, #f1faee 61.8%, #a8dadc 61.8%);
   border-radius: 6px 6px 0 0;
   display: flex;
   flex: min-content;
   justify-content: center; }
   header .title {
-    background-color: #f1faee;
+    background-color: #faf1ee;
     text-align: center;
     padding: 1rem 1rem 1rem 1rem;
     margin: 2rem;
@@ -85,7 +52,7 @@ header {
 
 .summary {
   grid-area: summary;
-  padding: 1rem 1rem 1rem 2rem; }
+  padding: 1rem 0rem; }
   .summary p {
     padding-bottom: .4em; }
 
@@ -93,7 +60,7 @@ header {
   grid-area: contact;
   font-size: 0.9em;
   overflow-wrap: anywhere;
-  padding: 1rem 2rem 1rem 1rem;
+  padding: 1rem 0rem;
   display: flex;
   flex-direction: column;
   justify-content: safe;
@@ -111,7 +78,7 @@ header {
 
 main {
   grid-area: main;
-  padding: 1rem 1rem 4rem 2rem; }
+  padding: 1rem 0rem 4rem 0rem; }
   main p {
     padding-bottom: .4rem; }
   main .experience:nth-of-type(1n+2),
@@ -121,10 +88,10 @@ main {
 aside {
   grid-area: side;
   overflow-wrap: anywhere;
-  padding: 1rem 2rem 4rem 1rem;
+  padding: 1rem 0rem 4rem 0rem;
   background-color: #a8dadc;
   font-size: 0.9em;
-  background: linear-gradient(to bottom, #a8dadc 95%, #f1faee); }
+  background-color: #a8dadc; }
   aside p {
     padding: .5rem 0; }
   aside .skills:nth-of-type(1n+2),
@@ -135,17 +102,12 @@ aside {
 
 footer {
   grid-area: foot;
-  display: flex;
-  justify-content: space-evenly;
-  padding: 3rem 4rem 3rem 4rem;
-  font-size: 1rem;
+  padding: 1rem 0rem;
+  font-size: .8em;
   font-weight: 300;
   background-color: #457b9d;
   border-radius: 0 0 6px 6px;
-  color: #f1faee; }
-  footer a,
-  footer p {
-    padding: 1rem; }
+  color: #faf1ee; }
 
 h1 {
   font-size: 3em;

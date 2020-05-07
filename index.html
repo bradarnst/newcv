@@ -15,16 +15,11 @@
     <div class="cv-grid">
         <header>
             <section class="title">
-                {% for header in collections.header -%}
-                {{ header.templateContent | safe }}
+                {% for title in collections.title -%}
+                {{ title.templateContent | safe }}
                 {% endfor -%}
             </section>           
         </header>
-        <!-- <section class="header-side">
-            {% for header-side in collections.header-side -%}
-            {{ header-side.templateContent | safe }}
-            {% endfor -%}
-        </section> -->
         <section class="summary">
             <!-- <hr class="hr-style hr-style--main"> -->
             {% for summary in collections.summary -%}

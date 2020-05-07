@@ -2,10 +2,14 @@
 tags: footer
 ---
 
-brad@nexusseven.com
+[Email Me](mailto:brad@nexusseven.com)
 
-[cv.nexusseven.com](https://cv.nexusseven.com)
+[CV Site](https://cv.nexusseven.com)
 
-[Download CV](https://cv.nexusseven.com/bradcv.pdf)
+[CV PDF](https://cv.nexusseven.com/bradcv.pdf)
 
-London, UK
+[Location: London, UK](https://goo.gl/maps/Gzuf7DiyDRaQmh8J8)
+
+Some sort of teaser.
+
+Something else.
