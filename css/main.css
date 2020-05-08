@@ -136,8 +136,10 @@ aside {
 footer {
   grid-area: foot;
   display: flex;
+  flex: auto auto;
+  flex-wrap: wrap;
   justify-content: space-evenly;
-  padding: 3rem 4rem 3rem 4rem;
+  padding: 3rem 4rem 1rem 4rem;
   font-size: 1rem;
   font-weight: 300;
   background-color: #457b9d;
@@ -146,6 +148,19 @@ footer {
   footer a,
   footer p {
     padding: 1rem; }
+  footer a:link {
+    color: #f1faee; }
+  footer a:visited {
+    color: #1d3557; }
+  footer i {
+    letter-spacing: normal; }
+  footer .copyright {
+    break-before: always;
+    text-align: center; }
+
+i {
+  color: #1d3557;
+  letter-spacing: 0.5em; }
 
 h1 {
   font-size: 3em;
