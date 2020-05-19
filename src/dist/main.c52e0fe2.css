@@ -7,7 +7,7 @@
 
 html {
   box-sizing: border-box;
-  background-color: #f1faee; }
+  background-color: #f5f6fa; }
 
 body {
   width: 90vw;
@@ -15,14 +15,14 @@ body {
   border-radius: 6px;
   box-shadow: 10px 10px 20px #d0d1d5;
   font-family: "Open Sans", sans-serif;
-  background-color: #f1faee;
+  background-color: #f5f6fa;
   color: #000;
   font-size: 1.15rem;
   font-weight: 300; }
   body a:link {
-    color: #000; }
+    color: #353b48; }
   body a:visited {
-    color: #1d3557; }
+    color: #353b48; }
 
 @media screen and (min-width: 800px) {
   body {
@@ -60,24 +60,24 @@ body {
   height: 1px;
   margin-bottom: 2rem; }
   .hr-style--main {
-    background-image: linear-gradient(to left, #f1faee, #1d3557, #f1faee); }
+    background-image: linear-gradient(to left, #f5f6fa, #353b48, #f5f6fa); }
   .hr-style--side {
-    background-image: linear-gradient(to left, #a8dadc, #1d3557, #a8dadc); }
+    background-image: linear-gradient(to left, #7f8fa6, #353b48, #7f8fa6); }
 
 header {
   grid-area: head;
-  background: linear-gradient(to right, #f1faee 61.8%, #a8dadc 61.8%);
+  background: linear-gradient(to right, #f5f6fa 61.8%, #7f8fa6 61.8%);
   border-radius: 6px 6px 0 0;
   display: flex;
   flex: min-content;
   justify-content: center; }
   header .title {
-    background-color: #f1faee;
+    background-color: #f5f6fa;
     text-align: center;
     padding: 1rem 1rem 1rem 1rem;
     margin: 2rem;
     border-radius: 6px;
-    border: 2px solid #1d3557; }
+    border: 2px solid #353b48; }
     header .title p {
       font-family: "Open Sans", sans-serif;
       font-size: 1.5em;
@@ -98,7 +98,10 @@ header {
   flex-direction: column;
   justify-content: safe;
   align-items: center;
-  background-color: #a8dadc; }
+  background-color: #7f8fa6; }
+  .contact i {
+    color: #353b48;
+    letter-spacing: 0.5em; }
   .contact img {
     padding: 2rem 0rem;
     display: block;
@@ -122,9 +125,9 @@ aside {
   grid-area: side;
   overflow-wrap: anywhere;
   padding: 1rem 2rem 4rem 1rem;
-  background-color: #a8dadc;
+  background-color: #7f8fa6;
   font-size: 0.9em;
-  background: linear-gradient(to bottom, #a8dadc 95%, #f1faee); }
+  background: linear-gradient(to bottom, #7f8fa6 95%, #f5f6fa); }
   aside p {
     padding: .5rem 0; }
   aside .skills:nth-of-type(1n+2),
@@ -142,25 +145,22 @@ footer {
   padding: 3rem 4rem 1rem 4rem;
   font-size: 1rem;
   font-weight: 300;
-  background-color: #457b9d;
+  background-color: #353b48;
   border-radius: 0 0 6px 6px;
-  color: #f1faee; }
+  color: #f5f6fa; }
   footer a,
   footer p {
     padding: 1rem; }
   footer a:link {
-    color: #f1faee; }
+    color: #f5f6fa; }
   footer a:visited {
-    color: #1d3557; }
+    color: #f5f6fa; }
   footer i {
-    letter-spacing: normal; }
+    letter-spacing: normal;
+    color: #7f8fa6; }
   footer .copyright {
     break-before: always;
     text-align: center; }
-
-i {
-  color: #1d3557;
-  letter-spacing: 0.5em; }
 
 h1 {
   font-size: 3em;
@@ -168,7 +168,7 @@ h1 {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: .05em;
-  color: #1d3557; }
+  color: #353b48; }
 
 h2 {
   font-size: 1.5em;
@@ -194,4 +194,7 @@ h6 {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   padding-bottom: .5rem;
-  color: #60665f; }
+  color: #718093; }
+
+
+/*# sourceMappingURL=/main.c52e0fe2.css.map */
