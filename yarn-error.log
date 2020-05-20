@@ -1,5 +1,5 @@
 Arguments: 
-  /home/brad/.n/bin/node /usr/share/yarn/bin/yarn.js run dev:11ty
+  /home/brad/.n/bin/node /usr/share/yarn/bin/yarn.js run build:scss
 
 PATH: 
   /usr/local/bin:/usr/local/sbin:/home/brad/.n/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/brad/.yarn/bin
@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  SyntaxError: /home/brad/work/mynewcv/package.json: Unexpected token } in JSON at position 289
+  SyntaxError: /home/brad/work/mynewcv/package.json: Unexpected string in JSON at position 257
       at JSON.parse (<anonymous>)
       at /usr/share/yarn/lib/cli.js:1625:59
       at Generator.next (<anonymous>)
@@ -28,19 +28,22 @@ npm manifest:
     "description": "Brad Arnst CV",
     "main": "index.html",
     "scripts": {
-      "dev:scss": "node-sass --watch --output src/css src/styles",
+      "dev:scss": "node-sass --watch --output tempcss src/styles",
+      "dev:parcel": "parcel watch tempcss --outdir src/css --no-minify"
       "dev:11ty": "eleventy --serve --quiet",
-      "build:scss": "node-sass --output src/css src/styles",
-  
+      "build:scss": "node-sass --output tempcss src/styles",
+      "build:parcel": "parcel build tempcss --outdir src/css",
+      "build:11ty": "eleventy"
     },
     "author": "Brad Arnst",
     "license": "MIT",
     "dependencies": {
-      "node-sass": "^4.13.1",
-      "postcss-cli": "^7.1.1"
+      
     },
     "devDependencies": {
       "@11ty/eleventy": "^0.10.0",
+      "node-sass": "^4.13.1",
+      "postcss-cli": "^7.1.1",
       "autoprefixer": "^9.8.0",
       "cssnano": "^4.1.10"
     }
