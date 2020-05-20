@@ -8,10 +8,13 @@
     "dev:scss": "node-sass --watch --output tempcss src/styles",
     "dev:parcel": "parcel watch tempcss/main.css --out-dir src/css --no-minify",
     "dev:11ty": "eleventy --serve --quiet",
+    "topdf": "node ./topdf.js",
     "build": "run-s build:*",
     "build:scss": "node-sass --output tempcss src/styles",
     "build:parcel": "parcel build tempcss/main.css --out-dir src/css",
-    "build:11ty": "eleventy"
+    "build:11ty": "eleventy",
+    "build:pdf": "node ./topdf.js",
+    "deploy:aws": "aws s3 sync _site s3://cv.nexusseven.com --size-only --exclude '.git/*' && aws cloudfront create-invalidation --distribution-id E1LF1P8TKLF8QZ --paths '/*'"
   },
   "author": "Brad Arnst",
   "license": "MIT",
