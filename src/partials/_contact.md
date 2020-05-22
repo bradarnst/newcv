@@ -6,9 +6,9 @@ tags: contact
 
 <i class="fas fa-at"></i>[Email](mailto:brad@nexusseven.com)
 
-<i class="fab fa-linkedin-in"></i>[LinkedIn](https://www.linkedin.com/in/bradarnst/)
+<i class="fas fa-phone"></i>[Phone](tel:+442070971340)
 
-<i class="fab fa-twitter"></i>[Twitter](https://twitter.com/ArnstBrad)
+<i class="fas fa-sms"></i>[SMS](sms:+442070971340)
 
 <i class="fas fa-map-marker-alt"></i>[London, UK](https://goo.gl/maps/Gzuf7DiyDRaQmh8J8)
 
