@@ -21,7 +21,7 @@ C-Level Engagement
 
 Architecture: Enterprise, Solutions, Infrastructure, Integration, Technology, Software.
 
-High-level and low-level design of cloud, systems, platforms, services, software, DevOps, web, mobile, network, testing, operations.
+Design of cloud, systems, platforms, services, software, DevOps, web, mobile, network, testing, operations.
 
 DevOps, infrastructure as code (IaC), delivery pipelines, CI/CD.
 
@@ -31,7 +31,7 @@ Delivery/Project management, SDLC, agile methodologies and ways of working. Jira
 
 Design/Architecture documentation. UML, UML diagrams as code (PlantUML, etc.), Sparx, Visual Paradigm.
 
-Microservices architecure/patterns, API First, REST, event-driven, domain driven.
+Microservices architecure/patterns, API First, REST, event-driven, domain driven design.
 
 Data modeling, database design, SQL, NoSQL, graph, document-oriented, JSON, storage, data cache, data streaming, data migration, ETL.
 
@@ -48,6 +48,10 @@ Big Data, analytics, BI, search, Elasticsearch.
 Cloud. AWS. Azure. Google Cloud Platform. Hybrid clouds.
 
 Lead, architect, design: Java, .NET, web, Node.js, PHP, C++, Javascript, CSS, HTML.
+
+Developer: front-end, full-stack, CSS, HTML, Javascript, Node.js, Python, JAMstack.
+
+Developer tools. TDD. git, Parcel, SASS, 11ty, Metalsmith, webpack.
 
 Security, identity management, threat detection, directory services, Active Directory, ADFS, SAML, LDAP, OAuth, OpenID Connect, RADIUS, ForgeRock, RSA SecureID, SSL/TLS, certificate management.
 

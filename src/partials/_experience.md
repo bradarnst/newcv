@@ -5,13 +5,13 @@ tags: experience
 ## Professional Experience
 #### Enterprise Architect & Engineering Manager
 ###### Buildit @ Wipro Digital — London, UK | Sep 2018 - Present
-As Enterprise Architect responsible for architecture and strategy consults for clients and within Wipro Digital. Buildit is a talented, highly-performing team within Wipro Digital. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
+As Enterprise Architect responsible for architecture, strategy and digitial transformation consults for clients and within Buildit. Buildit is a talented, highly-performing team within Wipro Digital. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
 
 As Engineering Manager responsible for mentoring Buildit and Wipro Digital engineering teams, consulting on engineering transformation with clients and within Wipro Digital. Introducing and refining ways of working, creative thinking, and modern, digital approaches.
 
 Clients include: Lloyds Banking Group, UBS, Repsol
 
-• AWS • Azure • UML • Jira • devops • agile • scrum • API • REST • cloud • transformation • CI/CD pipeline • UML • serverless • Docker • Kubernetes • JAMstack • SaaS • IaC • consulting •
+• AWS • Azure • UML • Jira • devops • agile • scrum • API • REST • cloud • transformation • CI/CD pipeline • UML • serverless • Docker • Kubernetes • JAMstack • SaaS • IaC • consulting • Solution Architecture Documents • Javascript •
 
 
 #### Principal Architect
@@ -22,21 +22,21 @@ As Consulting Principal Architect. Enterprise Blueprints (EB) provides Strategic
 #### Lead Enterprise Architect
 ###### 10x (via EB) — London, UK | Dec 2017 - Sep 2018
 
-As Lead Enterprise Architect responsible for architectural concepts and patterns. Primary responsibilities include API strategy, API design, API management, integration within 10x and with external services and partners. 10x and (main investor) Vigin Money were building a modern, bespoke digital banking platform using microservices architecture on AWS cloud native.
+As Lead Enterprise Architect responsible for architectural concepts and patterns. Primary responsibilities include API strategy, API design, API management, integration within 10x and with external services and partners. 10x and (main investor) Virgin Money were building a modern, bespoke digital banking platform using microservices architecture on AWS cloud native.
 
 • enterprise architecture • solutions architecture • design • integration architecture • microservices architecture • API design • API strategy • NoSQL data modelling • platform architecture • OpenAPI/Swagger • API security • Apigee Edge • Amazon AWS • OpenID/OAuth • UML • Spring Java microservices • linkerd service mesh •
 
 #### Enterprise Programme Architect
 ###### Nationwide (via EB) — Swindon, UK | Apr 2016 - Oct 2017
 
-As Enterprise and Programme Architect responsible for architectural concepts and patterns for API Enablement and Open Banking. ensuring the architecture aligned with Nationwide’s enterprise architecture roadmaps. Responsibilities included: DevOps and testing architecture; best practice for employing APIs; API SDLC, cloud standards (Azure). Solutions Architect for a tactical, API project that had severe time pressure, due to regulatroy mandates. Designed and implemented a cloud API platform, designed APIs, data stores, applications, security, operations and support model.
+As Enterprise and Programme Architect responsible for architectural concepts and patterns for API Enablement and Open Banking. ensuring the architecture aligned with Nationwide’s enterprise architecture roadmaps. Responsibilities included: DevOps and testing architecture; best practice for employing APIs; API SDLC, cloud standards (Azure). Solutions Architect for a tactical, API project that had severe time pressure, due to regulatory mandates. Designed and implemented a cloud API platform, designed APIs, data stores, applications, security, operations and support model.
 
 • API platform design • test platform architecture • vendor management • Dev Ops platform architecture • API SDLC • API security • Apigee Edge • Microsoft Azure •
 
-#### Lead Architect / Engineering Manager
+#### Lead Architect & Engineering Manager
 ###### Gresham Computing — London, UK | 2015 - 2016
 
-As Lead Architect and Engineering Manager was responsible for engineering management, overall architecture and design, API design, data modeling, integration architecture and design, AWS design, test approach, and devops. The product was a greenfield, bespoke web-application; designed for a commercial loan administration company. The product design was: micro-services architecture, SPA, RESTful, (mostly) serverless, in an AWS cloud environment.
+As Lead Architect and Engineering Manager responsible for engineering management, overall architecture and design, API design, data modeling, integration architecture and design, AWS design, test approach, and devops. The product was a greenfield, bespoke web-application; designed for a commercial loan administration company. The product design was: micro-services architecture, SPA, RESTful, (mostly) serverless, in an AWS cloud environment.
 
 • requirements • analysis • Swagger • NoSQL data modelling • Elasticsearch • AWS Lambda (Java) • integration (messaging) design • federated identity management • SPA (AngularJS, HTML5) • AWS • estimates • hiring • customer engagement •
 
@@ -52,7 +52,7 @@ As Solution Architect primarily was responsible for Solution Architecture, Solut
 
 As Enterprise Architect provided enterprise architecture, strategy, planning, continuous improvement, design and delivery of solutions. Collaborated with KiwiRail IT architects on life cycle planning, architectural principles, policies and standards. Architected for change.
 
-As Lead Architect on a $25M+ multi-year, programme transitioning KiwiRail Freight legacy systems to a bespoke architecture. Responsibilities: architecture and design of an event-driven, SOA for operations, booking, billing, invoicing, analytics, workflow, task management, logistics, platforms and SSO. Led the technical team and directed many vendor resources.
+As Lead Architect and Technical Lead on a $25M+ multi-year, programme transitioning KiwiRail Freight legacy systems to a bespoke architecture. Responsibilities: architecture and design of an event-driven, SOA for operations, booking, billing, invoicing, analytics, workflow, task management, logistics, platforms and SSO. Led the technical team and directed many vendor resources.
 
 The programme included: custom development, integration services, platform selection, web, app servers, document storage, security, workflow, rules, graph and NoSQL databases, search, event recording, analytics, audit and infrastructure. Key activities and deliverables include: Design, Architecture, Implementation Planning, Strategy, and Documentation.
 
