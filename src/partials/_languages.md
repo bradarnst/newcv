@@ -6,4 +6,4 @@ tags: languages
 
 English (native)
 
-French (starter)
+French (basic)
