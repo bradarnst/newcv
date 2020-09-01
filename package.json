@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "run-p dev:*",
     "dev:scss": "node-sass --watch --output tempcss src/styles",
-    "dev:parcel": "parcel watch tempcss/main.css --out-dir src/css --no-minify",
+    "dev:parcel": "parcel watch tempcss/main.css --out-dir src/css",
     "dev:11ty": "eleventy --serve --quiet",
     "topdf": "node ./topdf.js",
     "build": "run-s build:*",

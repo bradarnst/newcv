@@ -5,9 +5,9 @@ tags: experience
 ## Professional Experience
 #### Principal Consultant
 ###### Buildit @ Wipro Digital — London, UK | Sep 2018 - Present
-As a **Principal Consultant** for Buildit @ Wipro Digital, consulted internalliy and externally as an Enterprise Technology Architect and Engineering Manager. Buildit is a talented, highly-performing team within Wipro Digital.
+As a **Principal Consultant** for Buildit @ Wipro Digital, consulted internally and externally as an Enterprise Technology Architect and Engineering Manager. Buildit is a talented, highly-performing team within Wipro Digital.
 
-As **Enterprise Architect** responsible for architecture, strategy and digitial transformation consults for clients and within Buildit. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
+As **Enterprise Architect** responsible for architecture, strategy and digital transformation consults for clients and within Buildit. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
 
 As **Engineering Manager** responsible for mentoring Buildit and Wipro Digital engineering teams, consulting on engineering transformation, cloud, API and microservices design (and best practices) with clients and within Wipro Digital. Refining and guiding ways of working, creative thinking, and modern, digital approaches.
 
@@ -26,7 +26,7 @@ As **Consulting Principal Architect**. Enterprise Blueprints (EB) provides Strat
 
 As **Lead Enterprise Architect** responsible for architectural concepts and patterns. Primary responsibilities include API strategy, API design, API management, integration within 10x and with external services and partners. 10x and (main investor) Virgin Money were building a modern, bespoke digital banking platform using microservices architecture on AWS cloud native.
 
-As **Interim Engineering Team Lead** was responsbile for mentoring and shaping one of the feature teams into an engineering team responsible for all APIs and integration for 10x.
+As **Interim Engineering Team Lead** was responsible for mentoring and shaping one of the feature teams into an engineering team responsible for all APIs and integration for 10x.
 
 • enterprise architecture • solutions architecture • design • integration architecture • microservices architecture • API design • API strategy • NoSQL data modelling • platform architecture • OpenAPI/Swagger • API security • Apigee Edge • Amazon AWS • OpenID/OAuth • UML • Spring Java microservices • linkerd service mesh •
 
@@ -40,7 +40,7 @@ As **Enterprise Programme Architect** responsible for architectural concepts and
 #### Lead Architect & Engineering Manager
 ###### Gresham Computing — London, UK | 2015 - 2016
 
-As **Lead Architect** and **Engineering Manager** responsible for engineering management, overall architecture and design, API design, data modeling, integration architecture and design, AWS design, test approach, and devops. The product was a greenfield, bespoke web-application; designed for a commercial loan administration company. Hired, guided, and mentored the cross-functional team responsbile for the bespoke application. The product design was: micro-services architecture, SPA, RESTful, (mostly) serverless, in an AWS cloud environment.
+As **Lead Architect** and **Engineering Manager** responsible for engineering management, overall architecture and design, API design, data modeling, integration architecture and design, AWS design, test approach, and devops. The product was a greenfield, bespoke web-application; designed for a commercial loan administration company. Hired, guided, and mentored the cross-functional team responsible for the bespoke application. The product design was: micro-services architecture, SPA, RESTful, (mostly) serverless, in an AWS cloud environment.
 
 • requirements • analysis • Swagger • NoSQL data modelling • Elasticsearch • AWS Lambda (Java) • integration (messaging) design • federated identity management • SPA (AngularJS, HTML5) • AWS • estimates • hiring • customer engagement •
 
@@ -67,7 +67,7 @@ The programme included: custom development, integration services, platform selec
 
 As **Solutions Architect** primarily responsible for project delivery, architecture and design. Also responsible for Enterprise Architecture within B2C, aligning with EDF as a whole. Developed the Solution Architect Roadmap template.Developed technology and strategic roadmaps for various business objectives, technologies, and BAU. Developed an analytic tool for dynamically displaying maturity and confidence for roadmaps, programmes and projects.
 
-• BI • Analytics • Big Data architecture: SAP, & smart-meter data sources• Hadoop with SAP HANA • SharePoint architecture and build • BI & Analytics SaaS • SOA • SAP – Billing Finance CRM • Pricing • Metering & MOP • Reporting • Digital • Telephony • TOGAF •
+• BI • Analytics • Big Data architecture: SAP, & smart-meter data sources • Hadoop with SAP HANA • SharePoint architecture and build • BI & Analytics SaaS • SOA • SAP – Billing Finance CRM • Pricing • Metering & MOP • Reporting • Digital • Telephony • TOGAF •
 
 #### Senior Infrastructure Architect
 ###### HP — London, UK | 2012
@@ -121,7 +121,7 @@ As **Web/Middleware Architect** responsible for analyzing, designing, securing a
 #### Senior Technical Lead
 ###### ENMAX Corporation — Calgary, Canada | 2003 - 2004
 
-As **Senior Technical Lead** on a large migration project—responsible for analysis, technical design and planning, technical implementation, and technical lead of the server, data, user and application moves and redeployments. Led a team of 20 from client, vendor and provider. Design, planning and implementation of data/user migration amongst data centres, networks and security: AD, NetApp, and Exchange.
+As **Senior Technical Lead** on a large migration project, responsible for analysis, technical design and planning, technical implementation, and technical lead of the server, data, user and application moves and redeployments. Led a team of 20 from client, vendor and provider. Design, planning and implementation of data/user migration amongst data centres, networks and security: AD, NetApp, and Exchange.
 
 • 58 applications • Oracle & SQL Server • Windows, Sun/Solaris servers • BizTalk • Exchange • clustered SQL • security-hardened shared web services •
 

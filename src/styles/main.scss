@@ -81,7 +81,69 @@ body {
     }
   }
   
-.cv-grid {
+  }
+
+  // @media print {
+  //   @page {
+  //     size: landscape;
+  //     margin: 18pt;
+  //   }
+  //   body {
+  //     width: 100%;
+  //     margin: 0px;
+  //     padding: 0px;
+  //   }  
+  // }
+  @media print {
+    @page {
+      margin: 36pt 36pt 36pt;
+    }
+    html {
+      font-size: 11pt;;
+    }
+    body {
+      width: 80%;
+      box-shadow: none;
+      font-size: 1rem;
+    }
+    nav, footer, hr, img  { display: none !important}
+    a:after {
+      content: "< "attr(href)" >";
+    }
+    .contact i:after {
+      color: $colour-dark;
+      letter-spacing: normal;
+      content: "" attr(data-contact) "";
+    }
+    .contact a {
+      display: none;
+    }
+    table, blockquote, pre, code, figure, li, hr, ul, ol, a, tr {
+      page-break-inside: avoid;
+    }
+    h2, h3, h4, p, a {
+      orphans: 3;
+      widows: 3;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      page-break-after: avoid;
+      page-break-inside: avoid;
+    }
+    h1 + p, h2 + p, h3 +p, h4 +p {
+      page-break-before: avoid;
+    }
+    img {
+      page-break-before: auto;
+      page-break-after: avoid;
+      page-break-inside: avoid;
+    }
+    pre {
+      white-space: pre-wrap !important;
+      word-wrap: break-word;
+    }
+  }
+
+  .cv-grid {
     // width: 75vw;
     margin: 45px auto;
     display: grid;
@@ -94,18 +156,6 @@ body {
                           "main side"
                           "foot foot";
     }
-  }
-
-  @media print {
-    @page {
-      margin: 36pt;
-    }
-    body {
-      width: 100%;
-      margin: 0px;
-      padding: 0px;
-    }  
-  }
 
   .hr-style {
     border: 0;
