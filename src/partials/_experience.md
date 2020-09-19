@@ -4,7 +4,7 @@ tags: experience
 
 ## Professional Experience
 #### Principal Consultant
-###### Buildit @ Wipro Digital — London, UK | Sep 2018 - Present
+###### Buildit @ Wipro Digital — London, UK | Sep 2018 - Sep 2020
 As a **Principal Consultant** for Buildit @ Wipro Digital, consulted internally and externally as an Enterprise Technology Architect and Engineering Manager. Buildit is a talented, highly-performing team within Wipro Digital.
 
 As **Enterprise Architect** responsible for architecture, strategy and digital transformation consults for clients and within Buildit. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.

@@ -12,4 +12,4 @@ tags: contact
 
 <i class="fas fa-map-marker-alt" data-contact="Location: London, UK"></i>[London, UK](https://goo.gl/maps/Gzuf7DiyDRaQmh8J8)
 
-![Brad Bust](img/brad-bust-pub1.png)
+<!-- ![Brad Bust](img/brad-bust-pub1.png) -->
