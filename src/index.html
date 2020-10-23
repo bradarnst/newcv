@@ -33,20 +33,6 @@
             {{ contact.templateContent | safe }}
             {% endfor -%}
         </section>
-        <main>
-            <hr class="hr-style hr-style--main">
-            <section class="experience">
-                {% for experience in collections.experience -%}
-                {{ experience.templateContent | safe }}
-                {% endfor -%}
-            </section>
-            <section class="projects">
-                {% for projects in collections.projects -%}
-                {{ projects.templateContent | safe }}
-                {% endfor -%}
-            </section>
-        </main>
-        
         <aside>
             <hr class="hr-style hr-style--side">
             <section class="skills">
@@ -70,6 +56,20 @@
                 {% endfor -%}
             </section>
         </aside>
+        <main>
+            <hr class="hr-style hr-style--main">
+            <section class="experience">
+                {% for experience in collections.experience -%}
+                {{ experience.templateContent | safe }}
+                {% endfor -%}
+            </section>
+            <section class="projects">
+                {% for projects in collections.projects -%}
+                {{ projects.templateContent | safe }}
+                {% endfor -%}
+            </section>
+        </main>
+        
         <footer>
             {% for footer in collections.footer -%}
             {{ footer.templateContent | safe }}

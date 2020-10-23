@@ -96,17 +96,19 @@ body {
   // }
   @media print {
     @page {
-      margin: 36pt 36pt 36pt;
+      size: A4;
+      margin: 36pt 72pt 36pt 72pt;
+      // margin: 36pt;
     }
     html {
-      font-size: 11pt;;
+      // font-size: 11pt;;
     }
     body {
-      width: 80%;
+      // width: 80%;
       box-shadow: none;
       font-size: 1rem;
     }
-    nav, footer, hr, img  { display: none !important}
+    nav, footer, hr, img, .projects  { display: none !important}
     a:after {
       content: "< "attr(href)" >";
     }
