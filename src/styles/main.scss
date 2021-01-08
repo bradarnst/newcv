@@ -143,6 +143,9 @@ body {
       white-space: pre-wrap !important;
       word-wrap: break-word;
     }
+    .contact aside {
+      background-color: $colour-light;
+    }
   }
 
   .cv-grid {
