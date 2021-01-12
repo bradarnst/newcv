@@ -2,7 +2,7 @@
 tags: education
 ---
 
-## Education
+<!-- ## Education
 
 **One year Computer Science**
 Grande Prairie College
@@ -11,4 +11,4 @@ Grande Prairie College
 Microsoft, Oracle, f5
 
 **Delivering Exception Business Impact (Leadership Programme)**
-fecund training
+fecund training -->

@@ -160,6 +160,10 @@ body {
                           "summary contact"
                           "main side"
                           "foot foot";
+    // grid-template-areas: "head head"
+    //                       "summary summary"
+    //                       "main side"
+    //                       "foot foot";
     }
 
   .hr-style {
@@ -229,7 +233,10 @@ body {
       opacity: 1.0;
       z-index: -1;
     }
-  }  
+  }
+  // .contact {
+  //   display:none;
+  // }
 
   main {
     grid-area: main;

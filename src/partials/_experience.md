@@ -5,7 +5,7 @@ tags: experience
 ## Professional Experience
 #### Principal Consultant
 ###### Buildit @ Wipro Digital &mdash; London, UK | Sep 2018 - Oct 2020
-As a **Principal Consultant** for Buildit @ Wipro Digital, consulted internally and externally as an Enterprise Technology Architect and Engineering Manager. Buildit is a talented, highly-performing team within Wipro Digital.
+As a **Principal Consultant** for Buildit @ Wipro Digital, consulted internally and externally as an Enterprise Technology Architect and Engineering Manager. Buildit is a talented, highly-performing team within Wipro Digital that provides multidisciplinary consultancy for engineering and digital transformation.
 
 As **Enterprise Architect** responsible for architecture, strategy and digital transformation consults for clients and within Buildit. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
 
@@ -24,7 +24,7 @@ As **Consulting Principal Architect**. Enterprise Blueprints (EB) provides Strat
 #### Lead Enterprise Architect
 ###### 10x (via EB) &mdash; London, UK | Dec 2017 - Sep 2018
 
-As **Lead Enterprise Architect** responsible for architectural concepts and patterns. Primary responsibilities include API strategy, API design, API management, integration within 10x and with external services and partners. 10x and (main investor) Virgin Money were building a modern, bespoke digital banking platform using microservices architecture on AWS cloud native.
+As **Lead Enterprise Architect** responsible for architectural concepts and patterns. 10x is a FinTech that offers a core technology platform for digital banking. Primary responsibilities include API strategy, API design, API management, integration within 10x and with external services and partners. 10x and (main investor) Virgin Money were building a modern, bespoke digital banking platform using microservices architecture on AWS cloud native.
 
 As **Interim Engineering Team Lead** was responsible for mentoring and shaping one of the feature teams into an engineering team responsible for all APIs and integration for 10x.
 
