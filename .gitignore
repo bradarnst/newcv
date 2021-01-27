@@ -1,8 +1,9 @@
-node_modules
-_site
+node_modules/
+_site/
 yarn.lock
-bak
-dist
-tempcss
-.cache
+yarn-error.log
+bak/
+dist/
+tempcss/
+.cache/
 

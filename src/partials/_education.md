@@ -7,8 +7,8 @@ tags: education
 **One year Computer Science**
 Grande Prairie College
 
-**Technical and architecture training**
+**(Various) Technical and architecture training**
 Microsoft, Oracle, f5
 
-**Delivering Exception Business Impact (Leadership Programme)**
+**Business Impact Leadership Programme**
 fecund training

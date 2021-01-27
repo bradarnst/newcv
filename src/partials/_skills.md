@@ -5,15 +5,15 @@ tags: skills
 ## Skills & Proficiency
 ### Professional and Personal
 
-Architecture Strategy and Design. Experienced in a variety of architectural methods, frameworks and approaches. Experience in spearheading new strategies, developing and launching roadmaps and guideposts for the future. Always pragmatic and easily drops down to tactical approaches if and when necessary. Works with the business to help discover, develop, launch and drive the business forward; and gets down in the weeds to help with the details to ensure shorter term goals are met. Extensive experience in transformation, integration, architecting for change, designing for optimisation and the future; including business and technical areas. Always considers Business and Technical alignment.
+Architecture Strategy and Design. Experienced in a variety of architectural methods, frameworks and approaches. Experience in spearheading new strategies, and developing roadmaps. Pragmatic, drops down to tactical approaches if and when necessary. Works with the business to help discover, develop and drive the business forward. Gets down in the weeds when necessary to ensure shorter term goals are met. Extensive experience in transformation, integration, architecting for change, designing for optimisation and the future; including business and technical areas. Always considers Business and Technical alignment.
 
-Engineering Leadership. Is an empathetic, servant leader. Mentoring, guiding and motivating people. Shaping and supporting teams to be excellent and strives to produce excellence. Building, interviewing, hiring, growing teams.
+Engineering Leadership. Is an empathetic, servant leader. Mentoring, guiding and motivating people. Shaping and supporting collaborative teams to be excellent. Building, interviewing, hiring, growing teams.
 
-Consulting and Engagement. Experienced with both internal and external (client-facing) consultation. Engaging with appropriate stakeholders or clients to negotiate or convince as necessary. Experienced engaging across the board with users, technical engineers and architects, managers and  C-level executives. Often using humour or a lighter touch, but using formal approaches and accompanying documentation, presentations and talks as necessary. 
+Consulting and Engagement. Experienced with both internal and external (client-facing) consultation. Engaging with appropriate stakeholders to negotiate or convince as necessary. Experienced engaging with users, engineers and architects, managers and C-level executives. Often using humour or a lighter touch, but using formal approaches and accompanying documentation, presentations and talks as necessary. 
 
 Team. Collaboration. Communication. While self-driven, thrives working with teams. Always engages with people and teams to be inclusive, to help ignite ideas. An effective communicator, nurtures people and teams. Builds and develops relationships across the organisation.
 
-Creative. Pragmatic. Imaginative. Thorough. Decisive. A broad range of skills, knowledge and experience; systems thinking; and a creative, imaginative outlook with a collaborative and inclusive approach ensures that some of the best ideas are brought forward. Pragmatism and decisiveness also ensures that the appropriate idea--for the situation--is acted upon.
+Creative. Pragmatic. Imaginative. Thorough. Decisive. A broad range of skills, knowledge and experience; systems, analytical thinking; and a creative, imaginative outlook with a collaborative and inclusive approach ensures that the best ideas are brought forward. Pragmatism and decisiveness ensures that the appropriate ideas&mdashfor the situation&mdashare acted upon.
 
 ### Technical
 
@@ -24,6 +24,8 @@ Design of cloud, systems, platforms, services, software, DevOps, web, mobile, ne
 DevOps, infrastructure as code (IaC), delivery pipelines, CI/CD.
 
 Docker, Kubernetes, ECS, Ansible, Terraform, Chef, Puppet, Jenkins, CircleCI, git.
+
+Cloud. AWS. Azure. Google Cloud Platform. Hybrid clouds.
 
 Delivery/Project management, SDLC, agile methodologies and ways of working. Jira, Kanban, Trello, Slack(integration).
 
@@ -43,13 +45,11 @@ Messaging, JMS, AMQP, MQ, Kafka, Qpid, RabbitMQ.
 
 Big Data, analytics, BI, search, Elasticsearch.
 
-Cloud. AWS. Azure. Google Cloud Platform. Hybrid clouds.
+Lead, architect, design: Java, Spring, .NET, web, Node.js, PHP, front-end, Javascript, CSS, HTML.
 
-Lead, architect, design: Java, .NET, web, Node.js, PHP, C++, Javascript, CSS, HTML.
+Develop: front-end, full-stack, CSS, HTML, Javascript, Node.js, Python, JAMstack.
 
-Developer: front-end, full-stack, CSS, HTML, Javascript, Node.js, Python, JAMstack.
-
-Developer tools. TDD. git, Parcel, SASS, 11ty, Metalsmith, webpack.
+Dev tools. TDD. git, Parcel, SASS, 11ty, Metalsmith, webpack.
 
 Security, identity management, threat detection, directory services, Active Directory, ADFS, SAML, LDAP, OAuth, OpenID Connect, RADIUS, ForgeRock, RSA SecureID, SSL/TLS, certificate management.
 
