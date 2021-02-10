@@ -51,6 +51,8 @@ Develop: front-end, full-stack, CSS, HTML, Javascript, Node.js, Python, JAMstack
 
 Dev tools. TDD. git, Parcel, SASS, 11ty, Metalsmith, webpack.
 
+Workflow. BPMN, jBPM, WS-HumanTask.
+
 Security, identity management, threat detection, directory services, Active Directory, ADFS, SAML, LDAP, OAuth, OpenID Connect, RADIUS, ForgeRock, RSA SecureID, SSL/TLS, certificate management.
 
 Non-functional. Operations, support, runtime, monitoring, backup, recovery, key management, availability, reliability, content.

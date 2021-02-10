@@ -28,7 +28,7 @@ As **Lead Enterprise Architect** responsible for architectural concepts and patt
 
 As **Interim Engineering Team Lead** was responsible for mentoring and shaping one of the feature teams into an engineering team responsible for all APIs and integration for 10x.
 
-• enterprise architecture • solutions architecture • design • integration architecture • microservices architecture • API strategy • API design • NoSQL modelling • platform architecture • Apigee Edge • AWS • OpenID/OAuth • UML • Spring Java • linkerd service mesh •
+• enterprise architecture • solutions architecture • design • integration architecture • microservices architecture • API strategy • API design • NoSQL modelling • platform architecture • Apigee Edge • AWS • OpenID/OAuth • UML • Spring Java • Kafka • linkerd service mesh •
 
 #### Enterprise Programme Architect
 ###### Nationwide (via EB) &mdash; Swindon, UK | Apr 2016 - Oct 2017
@@ -60,7 +60,7 @@ As **Lead Architect** and **Technical Lead** on a $25M+ multi-year, programme tr
 
 The programme included: custom development, integration services, platform selection, web, app servers, document storage, security, workflow, rules, graph and NoSQL databases, search, event recording, analytics, audit and infrastructure. Key activities and deliverables include: Design, Architecture, Implementation Planning, Strategy, and Documentation.
 
-• REST • Java • Spring • TDD • devops • git • maven • Jenkins • Tomcat • Mulesoft • UML • Sparx EA • SSO • AD • analytics • CouchDB • Elasticsearch • Neo4J • SaaS • VMWare • GoPivotal • linux • custom SAP • SharePoint architecture • TOGAF •
+• REST • Java • Spring • TDD • devops • git • maven • Jenkins • Tomcat • Mulesoft • UML • Sparx EA • SSO • AD • analytics • CouchDB • Elasticsearch • Neo4J • SaaS • VMWare • GoPivotal • linux • custom SAP • jBPM • SharePoint architecture • TOGAF •
 
 #### Solutions Architect
 ###### EDF Energy &mdash; London, UK | 2012 - 2013
