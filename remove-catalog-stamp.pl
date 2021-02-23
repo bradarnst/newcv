@@ -16,5 +16,5 @@ use File::Slurp qw(read_file write_file);
 # my $file = path($filename);
 
 my $data = read_file $filename;
-$data =~ s/(\/Page\n.*?endobj\n\n).*?endobj.*?endobj\n/$1/sm;
+$data =~ s/(Catalog.*?endobj\n\n).*?endobj\n/$1/sm;
 write_file $filename, $data;
