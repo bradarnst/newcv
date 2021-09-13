@@ -3,8 +3,26 @@ tags: experience
 ---
 
 ## Professional Experience
+#### Senior Solutions Architect
+###### Zensar Technolgies &mdash; London, UK | Jul 2021 - Present
+As a **Senior Solution Architect** for Zensar Technologies responsible for engaging with external clients as a Principal Consultant. Within Zensar responsible for providing architectural, digital and engineering leadership, mentorship and direction.
+
+• Consulting • Leadership • Architecture • Engineering • Mentorship • Digital • 
+
+#### Senior Digital Architect
+###### The AA &mdash; London, UK | Jul 2021 - Present
+As a **Senior Digital Architect** for The AA responsible for Solutions and Digital Architecture in The AA. Provding digital archiecture direction and digital transformation, helping guide The AA forward to a cloud landscape with reactive and microservice architecture patterns, devops and digital platforms. Ensuring products or projects are successfully developed or transitioned into a digital-centric landscape. Liasing with Enterprise Architects and Data Architects on projects and roadmaps as The AA transforms and unifies.
+
+• AWS • Azure • Angular • Sitecore • Java • Spring • Swift • Cloudflare • databases • messaging • microservices • digital • UML •  APIs •  HLDs •  Jira •  github • architecture review board •
+
+#### Digital Solutions Architect
+###### Post Office &mdash; London, UK | Apr 2021 - Jul 2021
+As a Digital **Solution Architect** for Branch & Digital Engineering responsible for solutions and technical architecture on a new, cloud-native (AWS) platform. Using micro-services, end vent-driven architecture, mostly serverless design responsible for solutions and designs integrating legacy and new capabilities. Vendor selection. Technical Design Authority.
+
+• AWS • serverless • DynamoDB • Jira • Event Bridge • agile • Streams • REST • NoSQL data modeling • JSON • Parquet • Lambda • Athena • AWS Glue • Batch •
+
 #### Principal Consultant
-###### Buildit @ Wipro Digital &mdash; London, UK | Sep 2018 - Oct 2020
+###### Buildit @ Wipro Digital &mdash; London, UK | Sep 2018 - Nov 2020
 As a **Principal Consultant** for Buildit @ Wipro Digital, consulted internally and externally as an Enterprise Technology Architect and Engineering Manager. Buildit is a talented, highly-performing team within Wipro Digital that provides multidisciplinary consultancy for engineering and digital transformation.
 
 As **Enterprise Architect** responsible for architecture, strategy and digital transformation consults for clients and within Buildit. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
