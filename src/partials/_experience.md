@@ -4,13 +4,19 @@ tags: experience
 
 ## Professional Experience
 #### Senior Solutions Architect
-###### Zensar Technolgies &mdash; London, UK | Jul 2021 - Present
+###### Shell (via The Aubay Group) &mdash; London, UK | Jan 2021 - Present
+Provides solution architecture development, consultancy and assurance to products and projects. integrate the: Business Process, Data, Application, Technical and Information Security aspects of a Product or IT Solution. Coach detailed designers and business analysts in projects during their design work. Lead and collaborate within agile, cross-functional teams to develop and build data analytics applications for Trading, Energy and Group Carbon.
+
+• Leadership • Agile • Cloud • Azure • BizzDesign • Digital • Databricks • PowerBI • DevOps •
+
+#### Senior Solutions Architect
+###### Zensar Technolgies &mdash; London, UK | Jul 2021 - Jan 2022
 As a **Senior Solution Architect** for Zensar Technologies responsible for engaging with external clients as a Principal Consultant. Within Zensar responsible for providing architectural, digital and engineering leadership, mentorship and direction.
 
 • Consulting • Leadership • Architecture • Engineering • Mentorship • Digital • 
 
 #### Senior Digital Architect
-###### The AA &mdash; London, UK | Jul 2021 - Present
+###### The AA &mdash; London, UK | Jul 2021 - Jan 2022
 As a **Senior Digital Architect** for The AA responsible for Solutions and Digital Architecture in The AA. Provding digital archiecture direction and digital transformation, helping guide The AA forward to a cloud landscape with reactive and microservice architecture patterns, devops and digital platforms. Ensuring products or projects are successfully developed or transitioned into a digital-centric landscape. Liasing with Enterprise Architects and Data Architects on projects and roadmaps as The AA transforms and unifies.
 
 • AWS • Azure • Angular • Sitecore • Java • Spring • Swift • Cloudflare • databases • messaging • microservices • digital • UML •  APIs •  HLDs •  Jira •  github • architecture review board •
