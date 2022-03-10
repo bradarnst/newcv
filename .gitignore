@@ -6,4 +6,5 @@ bak/
 dist/
 tempcss/
 .cache/
+.parcel-cache/
 
