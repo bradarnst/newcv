@@ -2,33 +2,30 @@
   "name": "mynewcv",
   "version": "1.0.0",
   "description": "Brad Arnst CV",
+  "main": "index.html",
   "scripts": {
     "dev": "run-p dev:*",
-    "dev:scss": "node-sass --watch --output tempcss src/styles",
-    "dev:parcel": "parcel watch tempcss/main.css --dist-dir src/css",
+    "dev:scss": "sass --watch --update --style=expanded tempcss:src/styles",
+    "dev:parcel": "parcel watch tempcss/main.css --out-dir src/css",
     "dev:11ty": "eleventy --serve --quiet",
     "topdf": "node ./topdf.js",
     "build": "run-s build:*",
-    "build:scss": "node-sass --output tempcss src/styles",
-    "build:parcel": "parcel build tempcss/main.css --dist-dir src/css",
+    "build:scss": "sass --no-source-map --style=compressed tempcss:src/styles",
+    "build:parcel": "parcel build tempcss/main.css --out-dir src/css",
     "build:11ty": "eleventy",
     "build:pdf": "node ./topdf.js",
     "deploy:aws": "aws s3 sync _site s3://cv.nexusseven.com --size-only --exclude '.git/*' && aws cloudfront create-invalidation --distribution-id E1LF1P8TKLF8QZ --paths '/*'"
   },
   "author": "Brad Arnst",
   "license": "MIT",
-  "dependencies": {
-    "autoprefixer": "^10.4.2",
-    "postcss": "^8.4.7",
-    "postcss-cli": "^9.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "autoprefixer": "^10.4.2",
-    "cssnano": "^5.0.8",
-    "node-sass": "^7.0.1",
+    "@11ty/eleventy": "^1.0.2",
+    "autoprefixer": "^10.4.13",
+    "cssnano": "^5.1.14",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.7",
-    "postcss-cli": "^9.1.0"
+    "postcss": "^8.4.20",
+    "postcss-cli": "^10.1.0",
+    "sass": "^1.57.1"
   }
 }
