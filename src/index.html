@@ -1,84 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">  -->
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet"> 
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap" rel="stylesheet">  -->
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&family=Oswald:wght@300;600;700&display=swap" rel="stylesheet">  -->
-    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600&display=swap" rel="stylesheet"> 
-    <link rel="stylesheet" href="css/main.css">
-    <script src="https://kit.fontawesome.com/1f87b9cd94.js" crossorigin="anonymous"></script>
-    <title>Brad Arnst CV</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">  -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap" rel="stylesheet">  -->
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&family=Oswald:wght@300;600;700&display=swap" rel="stylesheet">  -->
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <script src="https://kit.fontawesome.com/1f87b9cd94.js" crossorigin="anonymous"></script>
+  <title>Brad Arnst CV</title>
 </head>
+
 <body>
-    <div class="cv-grid">
-        <header>
-            <section class="title">
-                {% for title in collections.title -%}
-                {{ title.templateContent | safe }}
-                {% endfor -%}
-            </section>           
-        </header>
-        <section class="summary">
-            <!-- <hr class="hr-style hr-style--main"> -->
-            {% for summary in collections.summary -%}
-            {{ summary.templateContent | safe }}
-            {% endfor -%}
-        </section>
-        <section class="contact">
-            <!-- <hr class="hr-style hr-style--side"> -->
-            {% for contact in collections.contact -%}
-            {{ contact.templateContent | safe }}
-            {% endfor -%}
-        </section>
-        <aside>
-            <hr class="hr-style hr-style--side">
-            <section class="skills">
-                {% for skills in collections.skills -%}
-                {{ skills.templateContent | safe }}
-                {% endfor -%}
-            </section>
-            <section class="education">
-                {% for education in collections.education -%}
-                {{ education.templateContent | safe }}
-                {% endfor -%}
-            </section>
-            <section class="languages">
-                {% for languages in collections.languages -%}
-                {{ languages.templateContent | safe }}
-                {% endfor -%}
-            </section>
-            <section class="interests">
-                {% for interests in collections.interests -%}
-                {{ interests.templateContent | safe }}
-                {% endfor -%}
-            </section>
-        </aside>
-        <main>
-            <hr class="hr-style hr-style--main">
-            <section class="experience">
-                {% for experience in collections.experience -%}
-                {{ experience.templateContent | safe }}
-                {% endfor -%}
-            </section>
-            <section class="projects">
-                {% for projects in collections.projects -%}
-                {{ projects.templateContent | safe }}
-                {% endfor -%}
-            </section>
-        </main>
-        
-        <footer>
-            {% for footer in collections.footer -%}
-            {{ footer.templateContent | safe }}
-            {% endfor -%}
-            <section class="copyright">
-                <p>&copy; 2020 Brad Arnst</p>
-            </section>
-            
-        </footer>
-    </div>
+  <div class="cv-grid">
+    <header>
+      <section class="title">
+        {% for title in collections.title -%}
+        {{ title.templateContent }}
+        {% endfor -%}
+      </section>
+    </header>
+    <section class="summary">
+      <!-- <hr class="hr-style hr-style--main"> -->
+      {% for summary in collections.summary -%}
+      {{ summary.templateContent }}
+      {% endfor -%}
+    </section>
+    <section class="contact">
+      <!-- <hr class="hr-style hr-style--side"> -->
+      {% for contact in collections.contact -%}
+      {{ contact.templateContent }}
+      {% endfor -%}
+    </section>
+    <aside>
+      <hr class="hr-style hr-style--side">
+      <section class="skills">
+        {% for skills in collections.skills -%}
+        {{ skills.templateContent }}
+        {% endfor -%}
+      </section>
+      <section class="education">
+        {% for education in collections.education -%}
+        {{ education.templateContent }}
+        {% endfor -%}
+      </section>
+      <section class="languages">
+        {% for languages in collections.languages -%}
+        {{ languages.templateContent }}
+        {% endfor -%}
+      </section>
+      <section class="interests">
+        {% for interests in collections.interests -%}
+        {{ interests.templateContent }}
+        {% endfor -%}
+      </section>
+    </aside>
+    <main>
+      <hr class="hr-style hr-style--main">
+      <section class="experience">
+        {% for experience in collections.experience -%}
+        {{ experience.templateContent }}
+        {% endfor -%}
+      </section>
+      <section class="projects">
+        {% for projects in collections.projects -%}
+        {{ projects.templateContent }}
+        {% endfor -%}
+      </section>
+    </main>
+
+    <footer>
+      {% for footer in collections.footer -%}
+      {{ footer.templateContent }}
+      {% endfor -%}
+      <section class="copyright">
+        <p>&copy; 2022 Brad Arnst</p>
+      </section>
+
+    </footer>
+  </div>
 </body>
+
 </html>

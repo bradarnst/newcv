@@ -13,7 +13,7 @@ Consulting and Engagement. Experienced with both internal and external (client-f
 
 Team. Collaboration. Communication. While self-driven, thrives working with teams. Always engages with people and teams to be inclusive, to help ignite ideas. An effective communicator, nurtures people and teams. Builds and develops relationships across the organisation.
 
-Creative. Pragmatic. Imaginative. Thorough. Decisive. A broad range of skills, knowledge and experience; systems, analytical thinking; and a creative, imaginative outlook with a collaborative and inclusive approach ensures that the best ideas are brought forward. Pragmatism and decisiveness ensures that the appropriate ideas&mdashfor the situation&mdashare acted upon.
+Creative. Pragmatic. Imaginative. Thorough. Decisive. A broad range of skills, knowledge and experience; systems, analytical thinking; and a creative, imaginative outlook with a collaborative and inclusive approach ensures that the best ideas are brought forward. Pragmatism and decisiveness ensures that the appropriate ideas&mdash;for the situation&mdash;are acted upon.
 
 ### Technical
 
