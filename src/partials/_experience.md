@@ -3,8 +3,16 @@ tags: experience
 ---
 
 ## Professional Experience
+
+#### Lead Solutions Architect
+###### Ubisoft &mdash; Paris, FR | Jun 2022 - Present
+As a **Lead Solutions Architect** manages the Architecture Team for IT Enterprise and Governance within Ubisoft. Responsible for developing architecture strategy, roadmaps, standards, best practices and processes to optmize and grow architecture and engineering across Enterprise and Governance, IT and domains: Sales, People, Finance, HR, Collaboration and others. Besides determining the overall architecture also ensures alignment across domains, IT and all of Ubisoft. Further responsible for key products and initiatives from time to time. Manage transveral and integration services team and products.
+
+• Management • Leadership • Agile • Cloud • AWS • Integration • Digital • Data Strategy • Kubernetes • DevOps • API • Roadmaps • Planning • 
+
+
 #### Senior Solutions Architect
-###### Shell (via The Aubay Group) &mdash; London, UK | Jan 2021 - Present
+###### Shell (via The Aubay Group) &mdash; London, UK | Jan 2022 - Jun 2022
 Provides solution architecture development, consultancy and assurance to products and projects. integrate the: Business Process, Data, Application, Technical and Information Security aspects of a Product or IT Solution. Coach detailed designers and business analysts in projects during their design work. Lead and collaborate within agile, cross-functional teams to develop and build data analytics applications for Trading, Energy and Group Carbon.
 
 • Leadership • Agile • Cloud • Azure • BizzDesign • Digital • Databricks • PowerBI • DevOps •
