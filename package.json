@@ -1,15 +1,15 @@
 {
   "name": "mynewcv",
-  "packageManager": "yarn@3.5.1",
+  "packagemanager": "yarn@3.5.1",
   "version": "1.0.0",
   "description": "Brad Arnst CV",
   "main": ".eleventy.js",
   "scripts": {
-    "dev": "run-p dev:*",
+    "dev": "run-p dev:scss dev:11ty",
     "dev:scss": "sass --watch --update --style=expanded src/styles:src/css",
     "dev:11ty": "eleventy --serve --quiet",
     "topdf": "node ./topdf.js",
-    "build": "run-s build:*",
+    "build": "run-s build:scss build:11ty build:pdf",
     "build:scss": "sass --no-source-map --style=compressed src/styles:src/css",
     "build:11ty": "eleventy",
     "build:pdf": "node ./topdf.js",
@@ -17,14 +17,13 @@
   },
   "author": "Brad Arnst",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2",
-    "autoprefixer": "^10.4.13",
-    "cssnano": "^5.1.14",
+    "@11ty/eleventy": "^2.0.1",
+    "autoprefixer": "^10.4.14",
+    "cssnano": "^6.0.1",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.20",
+    "postcss": "^8.4.24",
     "postcss-cli": "^10.1.0",
-    "sass": "^1.57.1"
+    "sass": "^1.62.1"
   }
 }
