@@ -1,10 +1,15 @@
 node_modules/
 _site/
-yarn.lock
-yarn-error.log
 bak/
 dist/
 tempcss/
 .cache/
 .parcel-cache/
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
 
