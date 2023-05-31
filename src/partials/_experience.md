@@ -4,11 +4,11 @@ tags: experience
 
 ## Professional Experience
 
-#### Lead Solutions Architect
+#### Lead Architect
 ###### Ubisoft &mdash; Paris, FR | Jun 2022 - Present
-As a **Lead Solutions Architect** manages the Architecture Team for IT Enterprise and Governance within Ubisoft. Responsible for developing architecture strategy, roadmaps, standards, best practices and processes to optmize and grow architecture and engineering across Enterprise and Governance, IT and domains: Sales, People, Finance, HR, Collaboration and others. Besides determining the overall architecture also ensures alignment across domains, IT and all of Ubisoft. Further responsible for key products and initiatives from time to time. Manage transveral and integration services team and products.
+As a **Lead Architect** manages the Architecture Team for Ubisoft IT&mdash;Enterprise and Governance. Responsible for leading the EG architecture team, developing architecture strategy, roadmaps, standards, best practices and processes to optmize and grow architecture and engineering across Ubisoft IT: Enterprise and Governance and domains: Sales, E-Commerce, People, Finance, HR, Collaboration, Workspace, Game Dev and others. Besides determining the overall architecture for EG also helps ensure alignment across domains and all of IT via the IT Technology Advisory Board. Further responsible for the architecture and high-level design of key products and initiatives. Manages transveral and integration services team and products. Digital and engineering tranformation to more modern platforms and engineering practises: test driven development, containers, secrets management, headless CMS, improving QA automation towards more mature CI/CD and devops practises. Amongst others...
 
-• Management • Leadership • Agile • Cloud • AWS • Integration • Digital • Data Strategy • Kubernetes • DevOps • API • Roadmaps • Planning • 
+• Management • Leadership • Agile • Cloud • AWS • Integration • Digital • Data Strategy • Kubernetes • DevOps • API • Roadmaps • Planning • API Gateway • Azure •
 
 
 #### Senior Solutions Architect
