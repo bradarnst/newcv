@@ -17,7 +17,7 @@ Creative. Pragmatic. Imaginative. Thorough. Decisive. A broad range of skills, k
 
 ### Technical
 
-Architecture: Enterprise, Solutions, Infrastructure, Integration, Technology, Software.
+Architecture: Enterprise, Solutions, Technical, Infrastructure, Integration, Technology, Software.
 
 Design of cloud, systems, platforms, services, software, DevOps, web, mobile, network, testing, operations.
 
@@ -25,11 +25,11 @@ DevOps, infrastructure as code (IaC), delivery pipelines, CI/CD.
 
 Docker, Kubernetes, ECS, Ansible, Terraform, Chef, Puppet, Jenkins, CircleCI, git.
 
-Cloud. AWS. Azure. Google Cloud Platform. Hybrid clouds.
+Cloud. AWS. Azure. Google Cloud Platform (GCP). Hybrid clouds.
 
 Delivery/Project management, SDLC, agile methodologies and ways of working. Jira, Kanban, Trello, Slack(integration).
 
-Design/Architecture documentation. UML, UML diagrams as code (PlantUML, etc.), Sparx, Visual Paradigm.
+Design/Architecture documentation. UML, C4, UML diagrams as code (PlantUML, etc.), Sparx, Visual Paradigm, Archimate.
 
 Microservices architecure/patterns, API First, REST, event-driven, domain driven design.
 
@@ -49,7 +49,7 @@ Lead, architect, design: Java, Spring, .NET, web, Node.js, PHP, front-end, Javas
 
 Develop: front-end, full-stack, CSS, HTML, Javascript, Node.js, Python, JAMstack.
 
-Dev tools. TDD. git, Parcel, SASS, 11ty, Metalsmith, webpack.
+Dev tools. TDD. git, Parcel, SASS, 11ty, Metalsmith, webpack, yarn, npm.
 
 Workflow. BPMN, jBPM, WS-HumanTask.
 
