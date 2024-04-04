@@ -4,8 +4,14 @@ tags: experience
 
 ## Professional Experience
 
+#### Senior Solutions Architect
+###### Euroclear  &mdash; Paris, FR | Nov 2023 - Present
+A a **Senior Solutions Architect** in the Group Digital Capabilities (GDC) Division, mainly in the Customer Onboarding and Interactions Team. Uses architectural and digital transformational expertise and experience to help Euroclear move forward and excel in providing financial services throughout the globe.
+
+• Architecture • .NET • Azure • SQL • CIAM • 
+
 #### Lead Architect
-###### Ubisoft &mdash; Paris, FR | Jun 2022 - Present
+###### Ubisoft &mdash; Paris, FR | Jun 2022 - Oct 2023
 As a **Lead Architect** manages the Architecture Team for Ubisoft IT&mdash;Enterprise and Governance. Responsible for leading the EG architecture team, developing architecture strategy, roadmaps, standards, best practices and processes to optmize and grow architecture and engineering across Ubisoft IT: Enterprise and Governance and domains: Sales, E-Commerce, People, Finance, HR, Collaboration, Workspace, Game Dev and others. Besides determining the overall architecture for EG also helps ensure alignment across domains and all of IT via the IT Technology Advisory Board. Further responsible for the architecture and high-level design of key products and initiatives. Manages transveral and integration services team and products. Digital and engineering tranformation to more modern platforms and engineering practises: test driven development, containers, secrets management, headless CMS, improving QA automation towards more mature CI/CD and devops practises. Leading technical, solutions architecture for major ERP initiative.
 
 • Management • Leadership • Agile • Cloud • AWS • Integration • Digital • Data Strategy • Kubernetes • DevOps • API • Roadmaps • Planning • API Gateway • Azure • ERP •

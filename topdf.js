@@ -17,7 +17,9 @@ if (!fs.existsSync(dir)){
 // exec("wkhtmltopdf --enable-local-file-access --print-media-type --disable-smart-shrinking _site/index.html _site/docs/bradcv.pdf", (error, stdout, stderr) => {
 //     if (error) {
 
-execSync(`prince --media=print --page-size=A4 --pdf-title="${title}" ${htmlInput} -o ${pdfOut}`, (error, stdout, stderr) => {
+execSync(`pandoc --css=_site/css/print.css --pdf-engine=wkhtmltopdf  ${htmlInput} -o ${pdfOut}`, (error, stdout, stderr) => {
+
+// execSync(`prince --media=print --page-size=A4 --pdf-title="${title}" ${htmlInput} -o ${pdfOut}`, (error, stdout, stderr) => {
     if (error) {
         console.log(`error: ${error.message}`);
         return;
@@ -31,12 +33,12 @@ execSync(`prince --media=print --page-size=A4 --pdf-title="${title}" ${htmlInput
     console.log(`stdout: ${stdout}`);
 });
 
-fs.readFile(pdfOut,'binary', function(err, stringFromFile) {
-  if (err) throw err;
-  // console.log(myRegex.test(stringFromFile));
-  // console.log(stringFromFile);
-  let changedFile = stringFromFile.replace( myRegex, '$1');
-  fs.writeFile(pdfOut, changedFile, 'binary', function (err) {
-  if (err) throw err;
-  });
-});
+// fs.readFile(pdfOut,'binary', function(err, stringFromFile) {
+//   if (err) throw err;
+//   // console.log(myRegex.test(stringFromFile));
+//   // console.log(stringFromFile);
+//   let changedFile = stringFromFile.replace( myRegex, '$1');
+//   fs.writeFile(pdfOut, changedFile, 'binary', function (err) {
+//   if (err) throw err;
+//   });
+// });
