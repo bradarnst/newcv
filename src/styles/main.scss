@@ -64,6 +64,10 @@ body {
   }
 }
 
+.print-this {
+  display: none;
+}
+
 @media screen and (min-width: 800px) {
   body {
     width: 75vw;
@@ -116,14 +120,22 @@ body {
   a:after {
     content: "< " attr(href) " >";
   }
-  .contact i::after {
+  // .contact i::after {
+  //   color: $colour-dark;
+  //   letter-spacing: normal;
+  //   content: " " attr(data-contact);
+  // }
+
+  .print-this {
+    display: inline;
     color: $colour-dark;
     letter-spacing: normal;
-    content: "" attr(data-contact) "";
   }
+
   .contact a {
     display: none;
   }
+
   table,
   blockquote,
   pre,
