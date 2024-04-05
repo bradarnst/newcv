@@ -174,7 +174,7 @@ As **Enterprise Architect** responsible for developing Fortis Alberta’s enterp
 
 ###### Others...
 
-As an **Architect, Manager and Consultant** demonstrated expertise in architecting, designing, and securing web, middleware, and technical systems within various industries. Led teams, developed technology roadmaps, and ensured adherence to high standards of performance and reliability. Highlights include:
+As an **Architect, Manager** and **Consultant** demonstrated expertise in architecting, designing, and securing web, middleware, and technical systems within various industries. Led teams, developed technology roadmaps, and ensured adherence to high standards of performance and reliability. Highlights include:
 
 - Directed technical personnel to ensure platforms met rigorous standards, resulting in significant cost savings.
 - Developed and implemented robust security architectures, including multi-factor authentication and PCI compliance.

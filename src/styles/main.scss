@@ -67,6 +67,11 @@ body {
 .print-this {
   display: none;
 }
+.sm {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: $colour-primary;
+}
 
 @media screen and (min-width: 800px) {
   body {
