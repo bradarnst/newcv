@@ -104,7 +104,11 @@ body {
 @media print {
   @page {
     size: A4;
-    margin: 36pt 72pt 36pt 72pt;
+    // margin: 36pt 72pt 36pt 72pt;
+    margin-top: 36pt;
+    margin-bottom: 36pt;
+    // margin-left: 27pt;
+    // margin-right: 27pt;
     // margin: 36pt;
   }
   //    html {
@@ -116,10 +120,11 @@ body {
     font-size: 1rem;
   }
   nav,
-  footer,
+  .footer,
   hr,
   img,
-  .projects {
+  .projects,
+  .no-print {
     display: none !important;
   }
   a:after {
@@ -241,7 +246,7 @@ header {
   display: flex;
   flex: min-content;
   justify-content: center;
-  .title {
+  .name-tagline {
     background-color: $colour-light;
     text-align: center;
     padding: 1rem 1rem 1rem 1rem;
@@ -321,7 +326,7 @@ aside {
   }
 }
 
-footer {
+.footer {
   grid-area: foot;
   display: flex;
   flex: auto auto;
