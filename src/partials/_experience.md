@@ -16,15 +16,17 @@ A a **Senior Solutions Architect** in the Group Digital Capabilities (GDC) Divis
 
 ###### Ubisoft &mdash; Paris, FR | Jun 2022 - Oct 2023
 
-As a **Lead Architect** manages the Architecture Team for Ubisoft IT&mdash;Enterprise and Governance. Responsible for leading the EG architecture team, developing architecture strategy, roadmaps, standards, best practices and processes to optmize and grow architecture and engineering across Ubisoft IT: Enterprise and Governance and domains: Sales, E-Commerce, People, Finance, HR, Collaboration, Workspace, Game Dev and others. Besides determining the overall architecture for EG also helps ensure alignment across domains and all of IT via the IT Technology Advisory Board. Further responsible for the architecture and high-level design of key products and initiatives. Manages transveral and integration services team and products. Digital and engineering tranformation to more modern platforms and engineering practises: test driven development, containers, secrets management, headless CMS, improving QA automation towards more mature CI/CD and devops practises. Leading technical, solutions architecture for major ERP initiative.
+<!-- As a **Lead Architect** manages the Architecture Team for Ubisoft IT&mdash;Enterprise and Governance. Responsible for leading the EG architecture team, developing architecture strategy, roadmaps, standards, best practices and processes to optmize and grow architecture and engineering across Ubisoft IT: Enterprise and Governance and domains: Sales, E-Commerce, People, Finance, HR, Collaboration, Workspace, Game Dev and others. Besides determining the overall architecture for EG also helps ensure alignment across domains and all of IT via the IT Technology Advisory Board. Further responsible for the architecture and high-level design of key products and initiatives. Manages transveral and integration services team and products. Digital and engineering tranformation to more modern platforms and engineering practises: test driven development, containers, secrets management, headless CMS, improving QA automation towards more mature CI/CD and devops practises. Leading technical, solutions architecture for major ERP initiative. -->
 
-• Management • Leadership • Agile • Cloud • AWS • Integration • Digital • Data Strategy • Kubernetes • DevOps • API • Roadmaps • Planning • API Gateway • Azure • ERP •
+As **Lead Architect** for Ubisoft IT&mdash;Enterprise and Governance, directed the Architecture Team in developing strategy, roadmaps, standards, and best practices to elevate architecture and engineering across domains like Sales, E-Commerce, People, Finance, HR, and more. Played a key role in shaping the overall architecture for EG, ensuring alignment across IT as part of the Technology Advisory Board. Oversaw the architecture and design of pivotal products and initiatives. Led digital and engineering in the shift to modern practices, including test-driven development, containerization, and CI/CD enhancements, while spearheading the technical architecture of a major ERP initiative.
+
+• Management • Leadership • Agile • Cloud • AWS • Integration • Digital • Data Strategy • Kubernetes • DevOps • TDD • API Strategy • Roadmaps • Planning • API Gateway • Azure • ERP • SaaS • C4 •
 
 #### Senior Solutions Architect
 
 ###### Shell (via The Aubay Group) &mdash; London, UK | Jan 2022 - Jun 2022
 
-Provides solution architecture development, consultancy and assurance to products and projects. integrate the: Business Process, Data, Application, Technical and Information Security aspects of a Product or IT Solution. Coach detailed designers and business analysts in projects during their design work. Lead and collaborate within agile, cross-functional teams to develop and build data analytics applications for Trading, Energy and Group Carbon.
+Provided solution architecture development, consultancy and assurance to products and projects. integrate the: Business Process, Data, Application, Technical and Information Security aspects of a Product or IT Solution. Coach detailed designers and business analysts in projects during their design work. Lead and collaborate within agile, cross-functional teams to develop and build data analytics applications for Trading, Energy and Group Carbon.
 
 • Leadership • Agile • Cloud • Azure • BizzDesign • Digital • Databricks • PowerBI • DevOps •
 
@@ -174,7 +176,9 @@ As **Enterprise Architect** responsible for developing Fortis Alberta’s enterp
 
 ###### Others...
 
-As an **Architect, Manager** and **Consultant** demonstrated expertise in architecting, designing, and securing web, middleware, and technical systems within various industries. Led teams, developed technology roadmaps, and ensured adherence to high standards of performance and reliability. Highlights include:
+As an **Architect, Manager** and **Consultant** demonstrated expertise in architecting, designing, and securing web, middleware, and technical systems within various industries. Led teams, developed technology roadmaps, and ensured adherence to high standards of performance and reliability.
+
+Highlights include:
 
 - Directed technical personnel to ensure platforms met rigorous standards, resulting in significant cost savings.
 - Developed and implemented robust security architectures, including multi-factor authentication and PCI compliance.
