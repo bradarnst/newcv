@@ -6,11 +6,11 @@ tags: experience
 
 #### Senior Solutions Architect
 
-###### Euroclear &mdash; Paris, FR | Nov 2023 - Present
+###### Euroclear &mdash; Paris, FR | Nov 2023 - May 2024
 
-A a **Senior Solutions Architect** in the Group Digital Capabilities (GDC) Division, mainly in the Customer Onboarding and Interactions Team. Uses architectural and digital transformational expertise and experience to help Euroclear move forward and excel in providing financial services throughout the globe.
+As a **Senior Solutions Architect** in the Group Digital Capabilities (GDC) Division leveraged deep expertise in digital transformation and architectural best practices to design and implement product solutions, enabling Euroclear to enhance global financial service delivery and client satisfaction.
 
-• Architecture • .NET • Azure • SQL • CIAM •
+• Architecture • .NET • Azure • SQL • agile • RFP • HLD • Azure Devops • CIAM •
 
 #### Lead Architect
 
@@ -18,7 +18,7 @@ A a **Senior Solutions Architect** in the Group Digital Capabilities (GDC) Divis
 
 <!-- As a **Lead Architect** manages the Architecture Team for Ubisoft IT&mdash;Enterprise and Governance. Responsible for leading the EG architecture team, developing architecture strategy, roadmaps, standards, best practices and processes to optmize and grow architecture and engineering across Ubisoft IT: Enterprise and Governance and domains: Sales, E-Commerce, People, Finance, HR, Collaboration, Workspace, Game Dev and others. Besides determining the overall architecture for EG also helps ensure alignment across domains and all of IT via the IT Technology Advisory Board. Further responsible for the architecture and high-level design of key products and initiatives. Manages transveral and integration services team and products. Digital and engineering tranformation to more modern platforms and engineering practises: test driven development, containers, secrets management, headless CMS, improving QA automation towards more mature CI/CD and devops practises. Leading technical, solutions architecture for major ERP initiative. -->
 
-As **Lead Architect** for Ubisoft IT&mdash;Enterprise and Governance, directed the Architecture Team in developing strategy, roadmaps, standards, and best practices to elevate architecture and engineering across domains like Sales, E-Commerce, People, Finance, HR, and more. Played a key role in shaping the overall architecture for EG, ensuring alignment across IT as part of the Technology Advisory Board. Oversaw the architecture and design of pivotal products and initiatives. Led digital and engineering in the shift to modern practices, including test-driven development, containerization, and CI/CD enhancements, while spearheading the technical architecture of a major ERP initiative.
+As **Lead Architect** for Ubisoft IT&mdash;Enterprise and Governance, managed the Architecture Team. Spearheaded a comprehensive architectural overhaul by developing strategic roadmaps and establishing new standards and best practices, optimizing cross-domain operations in Sales, E-Commerce, HR, and Finance, resulting in significant improvements in architectural process efficiencies. Shaped the overall architecture for EG, ensuring alignment across Ubisoft as a member of the Technology Advisory Board. Directed the architecture and design of critical products and initiatives, ensuring strategic alignment and technical excellence. Led digital transformation and engineering teams in adopting modern practices, including test-driven development, containerization, and CI/CD improvements. Spearheaded the technical architecture for a major ERP initiative, enhancing system efficiency and scalability.
 
 • Management • Leadership • Agile • Cloud • AWS • Integration • Digital • Data Strategy • Kubernetes • DevOps • TDD • API Strategy • Roadmaps • Planning • API Gateway • Azure • ERP • SaaS • C4 •
 
@@ -26,7 +26,7 @@ As **Lead Architect** for Ubisoft IT&mdash;Enterprise and Governance, directed t
 
 ###### Shell (via The Aubay Group) &mdash; London, UK | Jan 2022 - Jun 2022
 
-Provided solution architecture development, consultancy and assurance to products and projects. integrate the: Business Process, Data, Application, Technical and Information Security aspects of a Product or IT Solution. Coach detailed designers and business analysts in projects during their design work. Lead and collaborate within agile, cross-functional teams to develop and build data analytics applications for Trading, Energy and Group Carbon.
+As a **Senior Solutions Architect** for Shell developed comprehensive solution architecture by conducting in-depth consultations and implementing robust assurance frameworks, ensuring seamless integration of business processes, data, applications, and technical and information security aspects across products and projects. Coached designers and business analysts on projects. Lead role in agile, cross-functional teams. Developed and built data analytics applications for Trading, Energy and Group Carbon.
 
 • Leadership • Agile • Cloud • Azure • BizzDesign • Digital • Databricks • PowerBI • DevOps •
 
@@ -42,7 +42,7 @@ As a **Senior Solution Architect** for Zensar Technologies responsible for engag
 
 ###### The AA &mdash; London, UK | Jul 2021 - Jan 2022
 
-As a **Senior Digital Architect** for The AA responsible for Solutions and Digital Architecture in The AA. Provding digital archiecture direction and digital transformation, helping guide The AA forward to a cloud landscape with reactive and microservice architecture patterns, devops and digital platforms. Ensuring products or projects are successfully developed or transitioned into a digital-centric landscape. Liasing with Enterprise Architects and Data Architects on projects and roadmaps as The AA transforms and unifies.
+As a **Senior Digital Architect** for The AA responsible for Solutions and Digital Architecture in The AA. Ensured successful development and transition of products and projects into a digital-centric landscape by implementing cutting-edge digital transformation strategies, coordinating with enterprise and data architects, and adopting cloud technologies and microservice architecture patterns to enhance performance and scalability. Collaborated with the broader Enterprise and Data Architecture community on digital transformation roadmaps.
 
 • AWS • Azure • Angular • Sitecore • Java • Spring • Swift • Cloudflare • databases • messaging • microservices • digital • UML • APIs • HLDs • Jira • github • architecture review board •
 
@@ -50,7 +50,7 @@ As a **Senior Digital Architect** for The AA responsible for Solutions and Digit
 
 ###### Post Office &mdash; London, UK | Apr 2021 - Jul 2021
 
-As a Digital **Solution Architect** for Branch & Digital Engineering responsible for solutions and technical architecture on a new, cloud-native (AWS) platform. Using micro-services, end vent-driven architecture, mostly serverless design responsible for solutions and designs integrating legacy and new capabilities. Vendor selection. Technical Design Authority.
+As a Digital **Solution Architect** for Branch & Digital Engineering responsible for solutions and technical architecture on a new, cloud-native (AWS) platform. Designed and executed an integration plan for merging legacy systems with new cloud-native applications on AWS, ensuring seamless functionality and support for future scalability. Vendor selection. Technical Design Authority.
 
 • AWS • serverless • DynamoDB • Jira • Event Bridge • agile • Streams • REST • NoSQL data modeling • JSON • Parquet • Lambda • Athena • AWS Glue • Batch •
 
@@ -58,7 +58,7 @@ As a Digital **Solution Architect** for Branch & Digital Engineering responsible
 
 ###### Buildit @ Wipro Digital &mdash; London, UK | Sep 2018 - Nov 2020
 
-As a **Principal Consultant** for Buildit @ Wipro Digital, consulted internally and externally as an Enterprise Technology Architect and Engineering Manager. Buildit is a talented, highly-performing team within Wipro Digital that provides multidisciplinary consultancy for engineering and digital transformation.
+As a **Principal Consultant** for Buildit @ Wipro Digital provided expert consultation both internally and externally as an Enterprise Technology Architect and Engineering Manager, devising and executing digital transformation strategies, API strategies, and cloud architectures to drive client success and improve operational efficiencies.
 
 As **Enterprise Architect** responsible for architecture, strategy and digital transformation consults for clients and within Buildit. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
 
@@ -72,7 +72,7 @@ Clients include: Lloyds Banking Group, UBS, Repsol
 
 ###### Enterprise Blueprints &mdash; London, UK | Apr 2016 - Sep 2018
 
-As **Consulting Principal Architect**. Enterprise Blueprints (EB) provides Strategic and Architectural IT Consultation, primarily for financial organisations.
+As **Consulting Principal Architect** delivered strategic and architectural IT consultation as a Consulting Principal Architect, primarily for financial organizations, by developing comprehensive IT roadmaps, performing architectural assessments, and implementing innovative solutions that enhanced system integration and business alignment.
 
 #### Lead Enterprise Architect
 
@@ -114,9 +114,7 @@ As **Solution Architect** primarily was responsible for Solution Architecture, S
 
 As **Enterprise Architect** provided enterprise architecture, strategy, planning, continuous improvement, design and delivery of solutions. Collaborated with KiwiRail IT architects on life cycle planning, architectural principles, policies and standards. Architected for change.
 
-As **Lead Architect** and **Technical Lead** on a $25M+ multi-year, programme transitioning KiwiRail Freight legacy systems to a bespoke architecture. Responsibilities: architecture and design of an event-driven, SOA for operations, booking, billing, invoicing, analytics, workflow, task management, logistics, platforms and SSO. Helped shape and guide the technical team, hiring where necessary and directed many vendor resources.
-
-The programme included: custom development, integration services, platform selection, web, app servers, document storage, security, workflow, rules, graph and NoSQL databases, search, event recording, analytics, audit and infrastructure. Key activities and deliverables include: Design, Architecture, Implementation Planning, Strategy, and Documentation.
+As **Lead Architect** and **Technical Lead** delivered enterprise architecture, strategy, and continuous improvement initiatives at KiwiRail, by leading the design and delivery of solutions aligned with lifecycle planning and architectural principles. Implemented a $25M+ multi-year program transitioning legacy systems to a bespoke SOA, enhancing operational efficiency and scalability.
 
 • REST • Java • Spring • TDD • devops • git • maven • Jenkins • Tomcat • Mulesoft • UML • Sparx EA • SSO • AD • analytics • CouchDB • Elasticsearch • Neo4J • SaaS • VMWare • GoPivotal • linux • custom SAP • jBPM • SharePoint architecture • TOGAF •
 
@@ -124,7 +122,7 @@ The programme included: custom development, integration services, platform selec
 
 ###### EDF Energy &mdash; London, UK | 2012 - 2013
 
-As **Solutions Architect** primarily responsible for project delivery, architecture and design. Also responsible for Enterprise Architecture within B2C, aligning with EDF as a whole. Developed the Solution Architect Roadmap template.Developed technology and strategic roadmaps for various business objectives, technologies, and BAU. Developed an analytic tool for dynamically displaying maturity and confidence for roadmaps, programmes and projects.
+As **Solutions Architect** responsible for project delivery, architecture, and design at EDF Energy, developing strategic roadmaps and implementing analytic tools for dynamic roadmap visualization, which enhanced project maturity and confidence assessments across the enterprise.
 
 • BI • Analytics • Big Data • smart-meter IoT • Hadoop with SAP HANA • SharePoint architecture and build • SOA • SAP – Billing Finance CRM • project estimates/cost • Telephony • TOGAF •
 
@@ -176,7 +174,7 @@ As **Enterprise Architect** responsible for developing Fortis Alberta’s enterp
 
 ###### Others...
 
-As an **Architect, Manager** and **Consultant** demonstrated expertise in architecting, designing, and securing web, middleware, and technical systems within various industries. Led teams, developed technology roadmaps, and ensured adherence to high standards of performance and reliability.
+As an **Architect, Manager** and **Consultant** demonstrated technical leadership and architectural expertise across various roles, leading teams, developing technology roadmaps, and implementing rigorous performance standards. Achieved significant cost savings and enhanced system security through innovative solutions and strategic planning.
 
 Highlights include:
 
