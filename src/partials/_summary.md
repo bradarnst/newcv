@@ -4,7 +4,7 @@ tags: summary
 
 <!-- **_Enterprise Technology Architect. Engineering / Technical Leader._** -->
 
-**_Driving Innovation, Transformation, Strategy and Engineering Excellence._**
+**_Driving Innovation, Transformation, Strategy and Engineering Mastery._**
 
 Steers strategic and technical directions, crafting optimal designs and architectures. Seamlessly spearheads digital transformation and drives team collaboration towards peak performance.
 

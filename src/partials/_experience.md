@@ -50,7 +50,7 @@ As a **Senior Digital Architect** for The AA responsible for Solutions and Digit
 
 ###### Post Office &mdash; London, UK | Apr 2021 - Jul 2021
 
-As a Digital **Solution Architect** for Branch & Digital Engineering responsible for solutions and technical architecture on a new, cloud-native (AWS) platform. Designed and executed an integration plan for merging legacy systems with new cloud-native applications on AWS, ensuring seamless functionality and support for future scalability. Vendor selection. Technical Design Authority.
+As a **Digital Solution Architect** for Branch & Digital Engineering responsible for solutions and technical architecture on a new, cloud-native (AWS) platform. Designed and executed an integration plan for merging legacy systems with new cloud-native applications on AWS, ensuring seamless functionality and support for future scalability. Vendor selection. Technical Design Authority.
 
 • AWS • serverless • DynamoDB • Jira • Event Bridge • agile • Streams • REST • NoSQL data modeling • JSON • Parquet • Lambda • Athena • AWS Glue • Batch •
 
@@ -62,7 +62,7 @@ As a **Principal Consultant** for Buildit @ Wipro Digital provided expert consul
 
 As **Enterprise Architect** responsible for architecture, strategy and digital transformation consults for clients and within Buildit. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
 
-As **Engineering Manager** responsible for mentoring Buildit and Wipro Digital engineering teams, consulting on engineering transformation, cloud, API and microservices design (and best practices) with clients and within Wipro Digital. Refining and guiding ways of working, creative thinking, and modern, digital approaches.
+As **Engineering Lead** responsible for mentoring Buildit and Wipro Digital engineering teams, consulting on engineering transformation, cloud, API and microservices design (and best practices) with clients and within Wipro Digital. Refining and guiding ways of working, creative thinking, and modern, digital approaches.
 
 Clients include: Lloyds Banking Group, UBS, Repsol
 
@@ -114,7 +114,7 @@ As **Solution Architect** primarily was responsible for Solution Architecture, S
 
 As **Enterprise Architect** provided enterprise architecture, strategy, planning, continuous improvement, design and delivery of solutions. Collaborated with KiwiRail IT architects on life cycle planning, architectural principles, policies and standards. Architected for change.
 
-As **Lead Architect** and **Technical Lead** delivered enterprise architecture, strategy, and continuous improvement initiatives at KiwiRail, by leading the design and delivery of solutions aligned with lifecycle planning and architectural principles. Implemented a $25M+ multi-year program transitioning legacy systems to a bespoke SOA, enhancing operational efficiency and scalability.
+As **Lead Architect** delivered enterprise architecture, strategy, and continuous improvement initiatives at KiwiRail, by leading the design and delivery of solutions aligned with lifecycle planning and architectural principles. Implemented a $25M+ multi-year program transitioning legacy systems to a bespoke SOA, enhancing operational efficiency and scalability.
 
 • REST • Java • Spring • TDD • devops • git • maven • Jenkins • Tomcat • Mulesoft • UML • Sparx EA • SSO • AD • analytics • CouchDB • Elasticsearch • Neo4J • SaaS • VMWare • GoPivotal • linux • custom SAP • jBPM • SharePoint architecture • TOGAF •
 
