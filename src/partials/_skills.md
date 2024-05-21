@@ -44,7 +44,7 @@ Cloud. AWS. Azure. Google Cloud Platform. Hybrid clouds.
 
 Delivery/Project management, SDLC, agile methodologies and ways of working. Jira, Kanban, Trello, Slack(integration).
 
-Design/Architecture documentation. UML, UML diagrams as code (PlantUML, etc.), Sparx, Visual Paradigm.
+Design/Architecture documentation. UML, UML diagrams as code (PlantUML, etc.), Sparx, Visual Paradigm, MEGA Enterprise Architect, C4, Structurizr, arc42.
 
 Microservices architecure/patterns, API First, REST, event-driven, domain driven design.
 

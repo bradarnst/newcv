@@ -10,7 +10,7 @@ tags: experience
 
 As a **Senior Solutions Architect** in the Group Digital Capabilities (GDC) Division leveraged deep expertise in digital transformation and architectural best practices to design and implement product solutions, enabling Euroclear to enhance global financial service delivery and client satisfaction.
 
-• Architecture • .NET • Azure • SQL • agile • RFP • HLD • Azure Devops • CIAM •
+• Architecture • .NET • Azure • SQL • agile • RFP • HLD • Azure Devops • CIAM • data privacy • GDPR •
 
 #### Lead Architect
 
@@ -20,7 +20,7 @@ As a **Senior Solutions Architect** in the Group Digital Capabilities (GDC) Divi
 
 As **Lead Architect** for Ubisoft IT&mdash;Enterprise and Governance, managed the Architecture Team. Spearheaded a comprehensive architectural overhaul by developing strategic roadmaps and establishing new standards and best practices, optimizing cross-domain operations in Sales, E-Commerce, HR, and Finance, resulting in significant improvements in architectural process efficiencies. Shaped the overall architecture for EG, ensuring alignment across Ubisoft as a member of the Technology Advisory Board. Directed the architecture and design of critical products and initiatives, ensuring strategic alignment and technical excellence. Led digital transformation and engineering teams in adopting modern practices, including test-driven development, containerization, and CI/CD improvements. Spearheaded the technical architecture for a major ERP initiative, enhancing system efficiency and scalability.
 
-• Management • Leadership • Agile • Cloud • AWS • Integration • Digital • Data Strategy • Kubernetes • DevOps • TDD • API Strategy • Roadmaps • Planning • API Gateway • Azure • ERP • SaaS • C4 •
+• Management • Leadership • Agile • Cloud • AWS • Integration • Digital • Data Strategy • Kubernetes • DevOps • TDD • API Strategy • Roadmaps • Planning • API Gateway • Azure • ERP • SaaS • C4 • data privacy • GDPR •
 
 #### Senior Solutions Architect
 
@@ -28,7 +28,7 @@ As **Lead Architect** for Ubisoft IT&mdash;Enterprise and Governance, managed th
 
 As a **Senior Solutions Architect** for Shell developed comprehensive solution architecture by conducting in-depth consultations and implementing robust assurance frameworks, ensuring seamless integration of business processes, data, applications, and technical and information security aspects across products and projects. Coached designers and business analysts on projects. Lead role in agile, cross-functional teams. Developed and built data analytics applications for Trading, Energy and Group Carbon.
 
-• Leadership • Agile • Cloud • Azure • BizzDesign • Digital • Databricks • PowerBI • DevOps •
+• Leadership • Agile • Cloud • Azure • BizzDesign • Digital • Databricks • PowerBI • DevOps • data privacy • GDPR •
 
 #### Senior Solutions Architect
 
@@ -44,7 +44,7 @@ As a **Senior Solution Architect** for Zensar Technologies responsible for engag
 
 As a **Senior Digital Architect** for The AA responsible for Solutions and Digital Architecture in The AA. Ensured successful development and transition of products and projects into a digital-centric landscape by implementing cutting-edge digital transformation strategies, coordinating with enterprise and data architects, and adopting cloud technologies and microservice architecture patterns to enhance performance and scalability. Collaborated with the broader Enterprise and Data Architecture community on digital transformation roadmaps.
 
-• AWS • Azure • Angular • Sitecore • Java • Spring • Swift • Cloudflare • databases • messaging • microservices • digital • UML • APIs • HLDs • Jira • github • architecture review board •
+• AWS • Azure • Angular • Sitecore • Java • Spring • Swift • Cloudflare • databases • messaging • microservices • digital • UML • APIs • HLDs • Jira • github • architecture review board • data privacy • GDPR •
 
 #### Digital Solutions Architect
 
@@ -52,7 +52,7 @@ As a **Senior Digital Architect** for The AA responsible for Solutions and Digit
 
 As a **Digital Solution Architect** for Branch & Digital Engineering responsible for solutions and technical architecture on a new, cloud-native (AWS) platform. Designed and executed an integration plan for merging legacy systems with new cloud-native applications on AWS, ensuring seamless functionality and support for future scalability. Vendor selection. Technical Design Authority.
 
-• AWS • serverless • DynamoDB • Jira • Event Bridge • agile • Streams • REST • NoSQL data modeling • JSON • Parquet • Lambda • Athena • AWS Glue • Batch •
+• AWS • serverless • DynamoDB • Jira • Event Bridge • agile • Streams • REST • NoSQL data modeling • JSON • Parquet • Lambda • Athena • AWS Glue • Batch • data privacy • GDPR •
 
 #### Principal Consultant
 
@@ -82,7 +82,7 @@ As **Lead Enterprise Architect** responsible for architectural concepts and patt
 
 As **Interim Engineering Team Lead** was responsible for mentoring and shaping one of the feature teams into an engineering team responsible for all APIs and integration for 10x.
 
-• enterprise architecture • solutions architecture • design • integration architecture • microservices architecture • API strategy • API design • NoSQL modelling • platform architecture • Apigee Edge • AWS • OpenID/OAuth • UML • Spring Java • Kafka • linkerd service mesh •
+• enterprise architecture • solutions architecture • design • integration architecture • microservices architecture • API strategy • API design • NoSQL modelling • platform architecture • Apigee Edge • AWS • OpenID/OAuth • UML • Spring Java • Kafka • linkerd service mesh • data privacy • GDPR • Open Banking •
 
 #### Enterprise Programme Architect
 
@@ -90,7 +90,7 @@ As **Interim Engineering Team Lead** was responsible for mentoring and shaping o
 
 As **Enterprise Programme Architect** responsible for architectural concepts and patterns for API Enablement and Open Banking. ensuring the architecture aligned with Nationwide’s enterprise architecture roadmaps. Responsibilities included: DevOps and testing architecture; best practice for employing APIs; API SDLC, cloud standards (Azure). Solutions Architect for a tactical, API project that had severe time pressure, due to regulatory mandates. Designed and implemented a cloud API platform, designed APIs, data stores, applications, security, operations and support model.
 
-• API platform design • test platform architecture • vendor management • Dev Ops platform architecture • API SDLC • API security • Apigee Edge • Azure •
+• API platform design • test platform architecture • vendor management • Dev Ops platform architecture • API SDLC • API security • Apigee Edge • Azure • data privacy • GDPR • Open Banking •
 
 #### Lead Architect & Engineering Manager
 
@@ -116,7 +116,7 @@ As **Enterprise Architect** provided enterprise architecture, strategy, planning
 
 As **Lead Architect** delivered enterprise architecture, strategy, and continuous improvement initiatives at KiwiRail, by leading the design and delivery of solutions aligned with lifecycle planning and architectural principles. Implemented a $25M+ multi-year program transitioning legacy systems to a bespoke SOA, enhancing operational efficiency and scalability.
 
-• REST • Java • Spring • TDD • devops • git • maven • Jenkins • Tomcat • Mulesoft • UML • Sparx EA • SSO • AD • analytics • CouchDB • Elasticsearch • Neo4J • SaaS • VMWare • GoPivotal • linux • custom SAP • jBPM • SharePoint architecture • TOGAF •
+• REST • Java • Spring • TDD • devops • git • maven • Jenkins • Tomcat • Mulesoft • UML • Sparx EA • SSO • AD • analytics • CouchDB • Elasticsearch • Neo4J • SaaS • VMWare • GoPivotal • linux • custom SAP • jBPM • SharePoint architecture • TOGAF • data privacy •
 
 #### Solutions Architect
 
@@ -140,7 +140,7 @@ As **Senior Infrastructure Architect** for HP, for their BP account, responsible
 
 As **Enterprise Solutions Architect** responsible for solutions architecture throughout Xchanging and to external customers; consulting for internal and external business clients; Enterprise Architecture. Primary resource for all security architecture. Developed the solution for a standard desktop for offshore, near-shore and internal employees using hybrid cloud systems. Designed a solution for a SharePoint front-end to provide app delivery, hosting and remote management for offshore and onshore users.
 
-• enterprise architecture • requirements • proposals • solution design & documentation • Microsoft • mainframe integration • Citrix • end-user computing platform design • roadmaps • private & hybrid cloud strategy •
+• enterprise architecture • requirements • proposals • solution design & documentation • Microsoft • mainframe integration • Citrix • end-user computing platform design • roadmaps • private & hybrid cloud strategy • data privacy •
 
 #### Enterprise Solutions Architect
 
