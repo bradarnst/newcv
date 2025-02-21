@@ -14,7 +14,7 @@
     "build:11ty": "eleventy",
     "build:pdf": "node ./topdf.js",
     "deploy": "run-s deploy:aws",
-    "deploy:aws": "aws s3 sync _site s3://cv.nexusseven.com --size-only --exclude '.git/*' && aws cloudfront create-invalidation --distribution-id E1LF1P8TKLF8QZ --paths '/*'"
+    "deploy:aws": "aws s3 sync _site s3://cv.nexusseven.com  --exclude '.git/*' && aws cloudfront create-invalidation --distribution-id E1LF1P8TKLF8QZ --paths '/*'"
   },
   "author": "Brad Arnst",
   "license": "MIT",

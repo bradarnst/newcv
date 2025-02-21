@@ -4,6 +4,27 @@ tags: experience
 
 ## Professional Experience
 
+#### Lead Architect
+
+###### Unemployed &mdash; Rambouillet, FR | Nov 2024 - Feb 2025
+
+As a **Lead Architect** will
+
+- Lead digital transformation initiatives for enterprise clients, driving innovative solutions and enhancing technical capabilities.
+- Collaborate with cross-functional teams to develop cutting-edge solutions for premium upsell opportunities.
+- Implement agile methodologies to streamline processes and improve project delivery timelines.
+  • Enterprise Architecture • Solution Architecture • Digital Transformation • Technical Leadership • Technical Architecture • Engineering Leadership •
+
+#### Home Renovator
+
+###### France &mdash; Rambouillet, FR | May 2024 - Oct 2024
+
+As a **Home Renovator** took time off to renovate and sell my house in the UK, finalizing my permanent move to France.
+
+- managed the renovation project for my house in the UK, ensuring timely completion.
+- implemented cost-effective design solutions to increase the property value before selling.
+- utilized project management skills to coordinate logistics and budget effectively.
+
 #### Senior Solutions Architect
 
 ###### Euroclear &mdash; Paris, FR | Nov 2023 - May 2024
@@ -15,8 +36,6 @@ As a **Senior Solutions Architect** in the Group Digital Capabilities (GDC) Divi
 #### Lead Architect
 
 ###### Ubisoft &mdash; Paris, FR | Jun 2022 - Oct 2023
-
-<!-- As a **Lead Architect** manages the Architecture Team for Ubisoft IT&mdash;Enterprise and Governance. Responsible for leading the EG architecture team, developing architecture strategy, roadmaps, standards, best practices and processes to optmize and grow architecture and engineering across Ubisoft IT: Enterprise and Governance and domains: Sales, E-Commerce, People, Finance, HR, Collaboration, Workspace, Game Dev and others. Besides determining the overall architecture for EG also helps ensure alignment across domains and all of IT via the IT Technology Advisory Board. Further responsible for the architecture and high-level design of key products and initiatives. Manages transveral and integration services team and products. Digital and engineering tranformation to more modern platforms and engineering practises: test driven development, containers, secrets management, headless CMS, improving QA automation towards more mature CI/CD and devops practises. Leading technical, solutions architecture for major ERP initiative. -->
 
 As **Lead Architect** for Ubisoft IT&mdash;Enterprise and Governance, managed the Architecture Team. Spearheaded a comprehensive architectural overhaul by developing strategic roadmaps and establishing new standards and best practices, optimizing cross-domain operations in Sales, E-Commerce, HR, and Finance, resulting in significant improvements in architectural process efficiencies. Shaped the overall architecture for EG, ensuring alignment across Ubisoft as a member of the Technology Advisory Board. Directed the architecture and design of critical products and initiatives, ensuring strategic alignment and technical excellence. Led digital transformation and engineering teams in adopting modern practices, including test-driven development, containerization, and CI/CD improvements. Spearheaded the technical architecture for a major ERP initiative, enhancing system efficiency and scalability.
 
@@ -172,7 +191,7 @@ As **Enterprise Architect** responsible for developing Fortis Alberta’s enterp
 
 ###### Senior IT Architect & Interim IT Manager at Foothills Pipe Lines
 
-###### Others...
+###### Others
 
 As an **Architect, Manager** and **Consultant** demonstrated technical leadership and architectural expertise across various roles, leading teams, developing technology roadmaps, and implementing rigorous performance standards. Achieved significant cost savings and enhanced system security through innovative solutions and strategic planning.
 
