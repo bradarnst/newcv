@@ -13,5 +13,4 @@ name: Brad Arnst
 
 <i class="fas fa-file-pdf"></i>[Download CV (PDF)](docs/bradcv.pdf)
 
-<i class="fas fa-map-marker-alt"></i>[Living in London, UK](https://goo.gl/maps/Gzuf7DiyDRaQmh8J8)
-
+<!-- <i class="fas fa-map-marker-alt"></i>[Living in London, UK](https://goo.gl/maps/Gzuf7DiyDRaQmh8J8) -->

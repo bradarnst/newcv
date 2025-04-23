@@ -1,6 +1,6 @@
 {
   "name": "mynewcv",
-  "packagemanager": "yarn@3.5.1",
+  "packagemanager": "yarn@4.1.1",
   "version": "1.0.0",
   "description": "Brad Arnst CV",
   "main": ".eleventy.js",
@@ -13,7 +13,8 @@
     "build:scss": "sass --no-source-map --style=compressed src/styles:src/css",
     "build:11ty": "eleventy",
     "build:pdf": "node ./topdf.js",
-    "deploy:aws": "aws s3 sync _site s3://cv.nexusseven.com --size-only --exclude '.git/*' && aws cloudfront create-invalidation --distribution-id E1LF1P8TKLF8QZ --paths '/*'"
+    "deploy": "run-s deploy:aws",
+    "deploy:aws": "aws s3 sync _site s3://cv.nexusseven.com  --exclude '.git/*' && aws cloudfront create-invalidation --distribution-id E1LF1P8TKLF8QZ --paths '/*'"
   },
   "author": "Brad Arnst",
   "license": "MIT",
@@ -22,8 +23,11 @@
     "autoprefixer": "^10.4.14",
     "cssnano": "^6.0.1",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.24",
+    "postcss": "~>8.4.31",
     "postcss-cli": "^10.1.0",
     "sass": "^1.62.1"
+  },
+  "dependencies": {
+    "html-pdf-node": "^1.0.8"
   }
 }
